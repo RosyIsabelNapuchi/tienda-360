@@ -1,0 +1,6469 @@
+{
+ "gestor": {
+  "fecha": "01/10/2026",
+  "areas": [
+   {
+    "a": "ELECTRO HOGAR",
+    "s": 20,
+    "u": 0,
+    "sku": 70,
+    "stock": 3721,
+    "deps": [
+     [
+      "PEQUEÑOS ELECTRO",
+      6
+     ],
+     [
+      "LINEA BLANCA",
+      5
+     ],
+     [
+      "EMPOTRADO",
+      4
+     ],
+     [
+      "TV Y AUDIO",
+      3
+     ],
+     [
+      "ACCESORIOS",
+      2
+     ],
+     [
+      "CLIMATIZACION",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "LAVADORAS",
+      0
+     ],
+     [
+      "HORNOS",
+      0
+     ],
+     [
+      "MICROONDAS",
+      0
+     ],
+     [
+      "LICUADORAS",
+      0
+     ],
+     [
+      "REFRIGERADORAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "136264",
+      "CAMPANA EXTRACTORA 60 CM",
+      0,
+      108,
+      4
+     ],
+     [
+      "135632",
+      "LICUADORA 1.5 L",
+      0,
+      547,
+      8
+     ],
+     [
+      "123219",
+      "REFRIGERADORA NO FROST 300 L",
+      0,
+      375,
+      1
+     ],
+     [
+      "159057",
+      "MICROONDAS 20 L",
+      0,
+      259,
+      -8
+     ],
+     [
+      "108612",
+      "COCINA 4 HORNILLAS",
+      0,
+      160,
+      -6
+     ],
+     [
+      "114089",
+      "LAVADORA CARGA SUPERIOR 9 KG",
+      0,
+      43,
+      -10
+     ],
+     [
+      "115477",
+      "HORNO A GAS 70 L",
+      0,
+      52,
+      11
+     ],
+     [
+      "170038",
+      "VENTILADOR DE PIE 16 IN",
+      0,
+      22,
+      5
+     ]
+    ],
+    "q": [
+     [
+      "114089",
+      "LAVADORA CARGA SUPERIOR 9 KG",
+      0,
+      43
+     ],
+     [
+      "159057",
+      "MICROONDAS 20 L",
+      0,
+      259
+     ],
+     [
+      "108612",
+      "COCINA 4 HORNILLAS",
+      0,
+      160
+     ],
+     [
+      "123219",
+      "REFRIGERADORA NO FROST 300 L",
+      0,
+      375
+     ],
+     [
+      "136264",
+      "CAMPANA EXTRACTORA 60 CM",
+      0,
+      108
+     ],
+     [
+      "170038",
+      "VENTILADOR DE PIE 16 IN",
+      0,
+      22
+     ],
+     [
+      "135632",
+      "LICUADORA 1.5 L",
+      0,
+      547
+     ],
+     [
+      "115477",
+      "HORNO A GAS 70 L",
+      0,
+      52
+     ]
+    ],
+    "nq": 31
+   },
+   {
+    "a": "MATERIALES DE CONSTRUCCION",
+    "s": 19,
+    "u": 0,
+    "sku": 577,
+    "stock": 1050,
+    "deps": [
+     [
+      "CEMENTOS",
+      6
+     ],
+     [
+      "MADERAS",
+      5
+     ],
+     [
+      "IMPERMEABILIZANTES",
+      4
+     ],
+     [
+      "AGREGADOS",
+      3
+     ],
+     [
+      "DRYWALL",
+      2
+     ],
+     [
+      "FIERROS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "LADRILLOS",
+      0
+     ],
+     [
+      "CEMENTOS",
+      0
+     ],
+     [
+      "FIERROS",
+      0
+     ],
+     [
+      "ARENAS",
+      0
+     ],
+     [
+      "PLANCHAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "163624",
+      "CEMENTO TIPO I 42.5 KG",
+      0,
+      159,
+      -2
+     ],
+     [
+      "182387",
+      "TRIPLAY 4 MM",
+      0,
+      70,
+      7
+     ],
+     [
+      "153773",
+      "IMPERMEABILIZANTE 4 L",
+      0,
+      50,
+      -1
+     ],
+     [
+      "103868",
+      "FIERRO CORRUGADO 1/2 IN",
+      0,
+      85,
+      10
+     ],
+     [
+      "145407",
+      "PERFIL PARANTE 89 MM",
+      0,
+      35,
+      -1
+     ],
+     [
+      "167485",
+      "ARENA GRUESA SACO",
+      0,
+      45,
+      9
+     ],
+     [
+      "112491",
+      "PLANCHA DE DRYWALL 1/2 IN",
+      0,
+      42,
+      -2
+     ],
+     [
+      "180418",
+      "LADRILLO PANDERETA",
+      0,
+      17,
+      -3
+     ]
+    ],
+    "q": [
+     [
+      "180418",
+      "LADRILLO PANDERETA",
+      0,
+      17
+     ],
+     [
+      "163624",
+      "CEMENTO TIPO I 42.5 KG",
+      0,
+      159
+     ],
+     [
+      "112491",
+      "PLANCHA DE DRYWALL 1/2 IN",
+      0,
+      42
+     ],
+     [
+      "153773",
+      "IMPERMEABILIZANTE 4 L",
+      0,
+      50
+     ],
+     [
+      "145407",
+      "PERFIL PARANTE 89 MM",
+      0,
+      35
+     ],
+     [
+      "182387",
+      "TRIPLAY 4 MM",
+      0,
+      70
+     ],
+     [
+      "167485",
+      "ARENA GRUESA SACO",
+      0,
+      45
+     ],
+     [
+      "103868",
+      "FIERRO CORRUGADO 1/2 IN",
+      0,
+      85
+     ]
+    ],
+    "nq": 103
+   },
+   {
+    "a": "TENDENCIAS",
+    "s": 18,
+    "u": 0,
+    "sku": 390,
+    "stock": 454,
+    "deps": [
+     [
+      "NOVEDADES",
+      6
+     ],
+     [
+      "ORGANIZACION",
+      5
+     ],
+     [
+      "DIGITAL",
+      4
+     ],
+     [
+      "TEMPORADA",
+      3
+     ],
+     [
+      "DECORACION",
+      2
+     ],
+     [
+      "HOGAR INTELIGENTE",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "FOCOS",
+      0
+     ],
+     [
+      "ENCHUFES",
+      0
+     ],
+     [
+      "DIFUSORS",
+      0
+     ],
+     [
+      "CÁMARAS",
+      0
+     ],
+     [
+      "TIMBRES",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "178387",
+      "FOCO INTELIGENTE",
+      0,
+      91,
+      -8
+     ],
+     [
+      "132694",
+      "SENSOR DE MOVIMIENTO",
+      0,
+      839,
+      8
+     ],
+     [
+      "124840",
+      "CÁMARA DE SEGURIDAD WI-FI",
+      0,
+      211,
+      1
+     ],
+     [
+      "160524",
+      "ORGANIZADOR MODULAR",
+      0,
+      279,
+      3
+     ],
+     [
+      "140173",
+      "DIFUSOR DE AROMAS",
+      0,
+      47,
+      -6
+     ],
+     [
+      "125874",
+      "LÁMPARA DE ESCRITORIO",
+      0,
+      93,
+      6
+     ],
+     [
+      "197069",
+      "ENCHUFE INTELIGENTE",
+      0,
+      117,
+      2
+     ],
+     [
+      "155421",
+      "TIMBRE INALÁMBRICO",
+      0,
+      176,
+      1
+     ]
+    ],
+    "q": [
+     [
+      "178387",
+      "FOCO INTELIGENTE",
+      0,
+      91
+     ],
+     [
+      "140173",
+      "DIFUSOR DE AROMAS",
+      0,
+      47
+     ],
+     [
+      "124840",
+      "CÁMARA DE SEGURIDAD WI-FI",
+      0,
+      211
+     ],
+     [
+      "155421",
+      "TIMBRE INALÁMBRICO",
+      0,
+      176
+     ],
+     [
+      "197069",
+      "ENCHUFE INTELIGENTE",
+      0,
+      117
+     ],
+     [
+      "160524",
+      "ORGANIZADOR MODULAR",
+      0,
+      279
+     ],
+     [
+      "125874",
+      "LÁMPARA DE ESCRITORIO",
+      0,
+      93
+     ],
+     [
+      "132694",
+      "SENSOR DE MOVIMIENTO",
+      0,
+      839
+     ]
+    ],
+    "nq": 6
+   },
+   {
+    "a": "PINTURAS",
+    "s": 17,
+    "u": 0,
+    "sku": 146,
+    "stock": 2732,
+    "deps": [
+     [
+      "BARNICES",
+      6
+     ],
+     [
+      "SPRAY",
+      5
+     ],
+     [
+      "ESMALTES",
+      4
+     ],
+     [
+      "IMPRIMANTES",
+      3
+     ],
+     [
+      "LATEX",
+      2
+     ],
+     [
+      "ACCESORIOS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "IMPRIMANTES",
+      0
+     ],
+     [
+      "RODILLOS",
+      0
+     ],
+     [
+      "BARNIZS",
+      0
+     ],
+     [
+      "PINTURAS",
+      0
+     ],
+     [
+      "ESMALTES",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "174431",
+      "RODILLO 9 IN",
+      0,
+      148,
+      4
+     ],
+     [
+      "147995",
+      "BROCHA 3 IN",
+      0,
+      98,
+      5
+     ],
+     [
+      "142866",
+      "CINTA MASKING 2 IN",
+      0,
+      101,
+      -1
+     ],
+     [
+      "132487",
+      "IMPRIMANTE 4 L",
+      0,
+      99,
+      2
+     ],
+     [
+      "175101",
+      "ESMALTE SINTÉTICO 1 GAL",
+      0,
+      76,
+      4
+     ],
+     [
+      "105669",
+      "PINTURA EN SPRAY NEGRO",
+      0,
+      41,
+      11
+     ],
+     [
+      "165606",
+      "BARNIZ MARINO 1 L",
+      0,
+      32,
+      12
+     ],
+     [
+      "101724",
+      "PINTURA LÁTEX 4 L BLANCO",
+      0,
+      16,
+      7
+     ]
+    ],
+    "q": [
+     [
+      "142866",
+      "CINTA MASKING 2 IN",
+      0,
+      101
+     ],
+     [
+      "132487",
+      "IMPRIMANTE 4 L",
+      0,
+      99
+     ],
+     [
+      "174431",
+      "RODILLO 9 IN",
+      0,
+      148
+     ],
+     [
+      "175101",
+      "ESMALTE SINTÉTICO 1 GAL",
+      0,
+      76
+     ],
+     [
+      "147995",
+      "BROCHA 3 IN",
+      0,
+      98
+     ],
+     [
+      "101724",
+      "PINTURA LÁTEX 4 L BLANCO",
+      0,
+      16
+     ],
+     [
+      "105669",
+      "PINTURA EN SPRAY NEGRO",
+      0,
+      41
+     ],
+     [
+      "165606",
+      "BARNIZ MARINO 1 L",
+      0,
+      32
+     ]
+    ],
+    "nq": 16
+   },
+   {
+    "a": "PISOS Y REVESTIMIENTOS",
+    "s": 16,
+    "u": 0,
+    "sku": 570,
+    "stock": 1530,
+    "deps": [
+     [
+      "FRAGUAS",
+      6
+     ],
+     [
+      "PISOS LAMINADOS",
+      5
+     ],
+     [
+      "PORCELANATOS",
+      4
+     ],
+     [
+      "CERAMICOS",
+      3
+     ],
+     [
+      "ZOCALOS",
+      2
+     ],
+     [
+      "PEGAMENTOS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "PISOS",
+      0
+     ],
+     [
+      "CERÁMICOS",
+      0
+     ],
+     [
+      "FRAGUAS",
+      0
+     ],
+     [
+      "PEGAMENTOS",
+      0
+     ],
+     [
+      "PORCELANATOS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "116935",
+      "PORCELANATO 60X60 GRIS",
+      0,
+      85,
+      -2
+     ],
+     [
+      "147893",
+      "CERÁMICO PARED 30X60",
+      0,
+      387,
+      9
+     ],
+     [
+      "159497",
+      "ZÓCALO PVC 2.4 M",
+      0,
+      595,
+      -2
+     ],
+     [
+      "161976",
+      "PORCELANATO MADERA 20X120",
+      0,
+      46,
+      5
+     ],
+     [
+      "150822",
+      "CERÁMICO 45X45 BEIGE",
+      0,
+      86,
+      -8
+     ],
+     [
+      "105528",
+      "PISO LAMINADO 8 MM ROBLE",
+      0,
+      28,
+      -4
+     ],
+     [
+      "174124",
+      "FRAGUA BLANCA 2 KG",
+      0,
+      47,
+      -1
+     ],
+     [
+      "122605",
+      "PEGAMENTO PARA CERÁMICO 25 KG",
+      0,
+      21,
+      2
+     ]
+    ],
+    "q": [
+     [
+      "150822",
+      "CERÁMICO 45X45 BEIGE",
+      0,
+      86
+     ],
+     [
+      "105528",
+      "PISO LAMINADO 8 MM ROBLE",
+      0,
+      28
+     ],
+     [
+      "116935",
+      "PORCELANATO 60X60 GRIS",
+      0,
+      85
+     ],
+     [
+      "159497",
+      "ZÓCALO PVC 2.4 M",
+      0,
+      595
+     ],
+     [
+      "174124",
+      "FRAGUA BLANCA 2 KG",
+      0,
+      47
+     ],
+     [
+      "122605",
+      "PEGAMENTO PARA CERÁMICO 25 KG",
+      0,
+      21
+     ],
+     [
+      "161976",
+      "PORCELANATO MADERA 20X120",
+      0,
+      46
+     ],
+     [
+      "147893",
+      "CERÁMICO PARED 30X60",
+      0,
+      387
+     ]
+    ],
+    "nq": 78
+   },
+   {
+    "a": "SERVICIOS",
+    "s": 15,
+    "u": 0,
+    "sku": 90,
+    "stock": 4710,
+    "deps": [
+     [
+      "DESPACHO",
+      2
+     ],
+     [
+      "INSTALACION",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "SERVICIOS",
+      0
+     ],
+     [
+      "MEZCLAS",
+      0
+     ],
+     [
+      "CORTES",
+      0
+     ],
+     [
+      "SERVICIOS",
+      0
+     ],
+     [
+      "ARMADOS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "161312",
+      "VISITA TÉCNICA",
+      0,
+      55,
+      -10
+     ],
+     [
+      "146839",
+      "SERVICIO DE INSTALACIÓN",
+      0,
+      109,
+      -7
+     ],
+     [
+      "198019",
+      "INSTALACIÓN DE PISO",
+      0,
+      179,
+      1
+     ],
+     [
+      "126839",
+      "MEZCLA DE PINTURA",
+      0,
+      114,
+      0
+     ],
+     [
+      "149036",
+      "INSTALACIÓN DE TERMA",
+      0,
+      75,
+      0
+     ],
+     [
+      "120064",
+      "SERVICIO DE DESPACHO",
+      0,
+      78,
+      -10
+     ],
+     [
+      "135003",
+      "ARMADO DE MUEBLES",
+      0,
+      147,
+      10
+     ],
+     [
+      "188266",
+      "CORTE DE MADERA",
+      0,
+      113,
+      3
+     ]
+    ],
+    "q": [
+     [
+      "161312",
+      "VISITA TÉCNICA",
+      0,
+      55
+     ],
+     [
+      "120064",
+      "SERVICIO DE DESPACHO",
+      0,
+      78
+     ],
+     [
+      "146839",
+      "SERVICIO DE INSTALACIÓN",
+      0,
+      109
+     ],
+     [
+      "126839",
+      "MEZCLA DE PINTURA",
+      0,
+      114
+     ],
+     [
+      "149036",
+      "INSTALACIÓN DE TERMA",
+      0,
+      75
+     ],
+     [
+      "198019",
+      "INSTALACIÓN DE PISO",
+      0,
+      179
+     ],
+     [
+      "188266",
+      "CORTE DE MADERA",
+      0,
+      113
+     ],
+     [
+      "135003",
+      "ARMADO DE MUEBLES",
+      0,
+      147
+     ]
+    ],
+    "nq": 79
+   },
+   {
+    "a": "ORGANIZACION Y DECORACION",
+    "s": 14,
+    "u": 0,
+    "sku": 346,
+    "stock": 2406,
+    "deps": [
+     [
+      "ALFOMBRAS",
+      6
+     ],
+     [
+      "CORTINAS",
+      5
+     ],
+     [
+      "CUADROS",
+      4
+     ],
+     [
+      "DECORACION",
+      3
+     ],
+     [
+      "TEXTILES",
+      2
+     ],
+     [
+      "CAJAS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "CORTINAS",
+      0
+     ],
+     [
+      "CAJAS",
+      0
+     ],
+     [
+      "CUADROS",
+      0
+     ],
+     [
+      "COJÍNS",
+      0
+     ],
+     [
+      "ALFOMBRAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "102309",
+      "CUADRO DECORATIVO 50X70",
+      0,
+      90,
+      9
+     ],
+     [
+      "162489",
+      "CAJA ORGANIZADORA 60 L",
+      0,
+      46,
+      4
+     ],
+     [
+      "164755",
+      "RELOJ DE PARED",
+      0,
+      53,
+      -3
+     ],
+     [
+      "185510",
+      "CORTINA BLACKOUT",
+      0,
+      63,
+      1
+     ],
+     [
+      "131584",
+      "FLORERO DE VIDRIO",
+      0,
+      38,
+      -2
+     ],
+     [
+      "127320",
+      "COJÍN DECORATIVO",
+      0,
+      106,
+      -2
+     ],
+     [
+      "126520",
+      "REPISA FLOTANTE",
+      0,
+      99,
+      -4
+     ],
+     [
+      "144070",
+      "ALFOMBRA 160X230",
+      0,
+      26,
+      0
+     ]
+    ],
+    "q": [
+     [
+      "126520",
+      "REPISA FLOTANTE",
+      0,
+      99
+     ],
+     [
+      "164755",
+      "RELOJ DE PARED",
+      0,
+      53
+     ],
+     [
+      "131584",
+      "FLORERO DE VIDRIO",
+      0,
+      38
+     ],
+     [
+      "127320",
+      "COJÍN DECORATIVO",
+      0,
+      106
+     ],
+     [
+      "144070",
+      "ALFOMBRA 160X230",
+      0,
+      26
+     ],
+     [
+      "185510",
+      "CORTINA BLACKOUT",
+      0,
+      63
+     ],
+     [
+      "162489",
+      "CAJA ORGANIZADORA 60 L",
+      0,
+      46
+     ],
+     [
+      "102309",
+      "CUADRO DECORATIVO 50X70",
+      0,
+      90
+     ]
+    ],
+    "nq": 135
+   },
+   {
+    "a": "COCINA",
+    "s": 13,
+    "u": 0,
+    "sku": 60,
+    "stock": 2013,
+    "deps": [
+     [
+      "SARTENES",
+      6
+     ],
+     [
+      "VAJILLA",
+      5
+     ],
+     [
+      "PEQUEÑOS",
+      4
+     ],
+     [
+      "CUCHILLERIA",
+      3
+     ],
+     [
+      "ORGANIZACION",
+      2
+     ],
+     [
+      "OLLAS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "VAJILLAS",
+      0
+     ],
+     [
+      "SETS",
+      0
+     ],
+     [
+      "JUEGOS",
+      0
+     ],
+     [
+      "SARTÉNS",
+      0
+     ],
+     [
+      "ESCURRIDORS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "136655",
+      "HERVIDOR ELÉCTRICO",
+      0,
+      108,
+      12
+     ],
+     [
+      "100126",
+      "TABLA DE PICAR",
+      0,
+      68,
+      0
+     ],
+     [
+      "126109",
+      "ESCURRIDOR DE PLATOS",
+      0,
+      657,
+      -3
+     ],
+     [
+      "151752",
+      "SET DE CUCHILLOS",
+      0,
+      80,
+      -7
+     ],
+     [
+      "133975",
+      "JUEGO DE OLLAS 5 PIEZAS",
+      0,
+      46,
+      -3
+     ],
+     [
+      "147455",
+      "VAJILLA 16 PIEZAS",
+      0,
+      19,
+      -3
+     ],
+     [
+      "144447",
+      "SARTÉN ANTIADHERENTE 24 CM",
+      0,
+      82,
+      7
+     ],
+     [
+      "162901",
+      "SET DE TÁPERES",
+      0,
+      11,
+      5
+     ]
+    ],
+    "q": [
+     [
+      "151752",
+      "SET DE CUCHILLOS",
+      0,
+      80
+     ],
+     [
+      "126109",
+      "ESCURRIDOR DE PLATOS",
+      0,
+      657
+     ],
+     [
+      "133975",
+      "JUEGO DE OLLAS 5 PIEZAS",
+      0,
+      46
+     ],
+     [
+      "147455",
+      "VAJILLA 16 PIEZAS",
+      0,
+      19
+     ],
+     [
+      "100126",
+      "TABLA DE PICAR",
+      0,
+      68
+     ],
+     [
+      "162901",
+      "SET DE TÁPERES",
+      0,
+      11
+     ],
+     [
+      "144447",
+      "SARTÉN ANTIADHERENTE 24 CM",
+      0,
+      82
+     ],
+     [
+      "136655",
+      "HERVIDOR ELÉCTRICO",
+      0,
+      108
+     ]
+    ],
+    "nq": 24
+   },
+   {
+    "a": "GASFITERIA",
+    "s": 12,
+    "u": 0,
+    "sku": 507,
+    "stock": 4361,
+    "deps": [
+     [
+      "CONEXIONES",
+      6
+     ],
+     [
+      "TUBERIAS",
+      5
+     ],
+     [
+      "TERMAS",
+      4
+     ],
+     [
+      "TANQUES",
+      3
+     ],
+     [
+      "VALVULAS",
+      2
+     ],
+     [
+      "BOMBAS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "TERMAS",
+      0
+     ],
+     [
+      "CODOS",
+      0
+     ],
+     [
+      "TUBOS",
+      0
+     ],
+     [
+      "TANQUES",
+      0
+     ],
+     [
+      "BOMBAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "144270",
+      "CINTA TEFLÓN",
+      0,
+      65,
+      -6
+     ],
+     [
+      "168500",
+      "CODO PVC 1/2 IN",
+      0,
+      42,
+      11
+     ],
+     [
+      "103047",
+      "VÁLVULA ESFÉRICA 1/2 IN",
+      0,
+      645,
+      0
+     ],
+     [
+      "157752",
+      "TUBO PVC 1/2 IN 5 M",
+      0,
+      96,
+      8
+     ],
+     [
+      "183533",
+      "TERMA ELÉCTRICA 50 L",
+      0,
+      32,
+      -5
+     ],
+     [
+      "142005",
+      "TANQUE DE AGUA 1100 L",
+      0,
+      46,
+      1
+     ],
+     [
+      "128266",
+      "BOMBA PERIFÉRICA 1/2 HP",
+      0,
+      33,
+      7
+     ],
+     [
+      "104948",
+      "LLAVE DE PASO",
+      0,
+      36,
+      1
+     ]
+    ],
+    "q": [
+     [
+      "144270",
+      "CINTA TEFLÓN",
+      0,
+      65
+     ],
+     [
+      "183533",
+      "TERMA ELÉCTRICA 50 L",
+      0,
+      32
+     ],
+     [
+      "103047",
+      "VÁLVULA ESFÉRICA 1/2 IN",
+      0,
+      645
+     ],
+     [
+      "142005",
+      "TANQUE DE AGUA 1100 L",
+      0,
+      46
+     ],
+     [
+      "104948",
+      "LLAVE DE PASO",
+      0,
+      36
+     ],
+     [
+      "128266",
+      "BOMBA PERIFÉRICA 1/2 HP",
+      0,
+      33
+     ],
+     [
+      "157752",
+      "TUBO PVC 1/2 IN 5 M",
+      0,
+      96
+     ],
+     [
+      "168500",
+      "CODO PVC 1/2 IN",
+      0,
+      42
+     ]
+    ],
+    "nq": 122
+   },
+   {
+    "a": "AIRE LIBRE Y TEMPORADA",
+    "s": 11,
+    "u": 0,
+    "sku": 153,
+    "stock": 2561,
+    "deps": [
+     [
+      "CAMPING",
+      6
+     ],
+     [
+      "PISCINAS",
+      5
+     ],
+     [
+      "SOMBRILLAS",
+      4
+     ],
+     [
+      "TERRAZA",
+      3
+     ],
+     [
+      "TEMPORADA",
+      2
+     ],
+     [
+      "PARRILLAS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "SOMBRILLAS",
+      0
+     ],
+     [
+      "PISCINAS",
+      0
+     ],
+     [
+      "CARPAS",
+      0
+     ],
+     [
+      "JUEGOS",
+      0
+     ],
+     [
+      "PARRILLAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "166403",
+      "PISCINA INFLABLE 3 M",
+      0,
+      70,
+      11
+     ],
+     [
+      "130420",
+      "JUEGO DE TERRAZA 4 SILLAS",
+      0,
+      96,
+      11
+     ],
+     [
+      "184558",
+      "CARPA 4 PERSONAS",
+      0,
+      77,
+      -2
+     ],
+     [
+      "133413",
+      "PARRILLA A CARBÓN",
+      0,
+      91,
+      -7
+     ],
+     [
+      "167893",
+      "SILLA PLEGABLE",
+      0,
+      29,
+      10
+     ],
+     [
+      "143889",
+      "HAMACA",
+      0,
+      17,
+      -5
+     ],
+     [
+      "155382",
+      "SOMBRILLA 2.7 M",
+      0,
+      12,
+      -5
+     ],
+     [
+      "146123",
+      "COOLER 50 L",
+      0,
+      10,
+      5
+     ]
+    ],
+    "q": [
+     [
+      "133413",
+      "PARRILLA A CARBÓN",
+      0,
+      91
+     ],
+     [
+      "143889",
+      "HAMACA",
+      0,
+      17
+     ],
+     [
+      "155382",
+      "SOMBRILLA 2.7 M",
+      0,
+      12
+     ],
+     [
+      "184558",
+      "CARPA 4 PERSONAS",
+      0,
+      77
+     ],
+     [
+      "146123",
+      "COOLER 50 L",
+      0,
+      10
+     ],
+     [
+      "167893",
+      "SILLA PLEGABLE",
+      0,
+      29
+     ],
+     [
+      "166403",
+      "PISCINA INFLABLE 3 M",
+      0,
+      70
+     ],
+     [
+      "130420",
+      "JUEGO DE TERRAZA 4 SILLAS",
+      0,
+      96
+     ]
+    ],
+    "nq": 51
+   },
+   {
+    "a": "ILUMINACION",
+    "s": 10,
+    "u": 0,
+    "sku": 408,
+    "stock": 2764,
+    "deps": [
+     [
+      "LAMPARAS",
+      6
+     ],
+     [
+      "PANELES",
+      5
+     ],
+     [
+      "DECORATIVA",
+      4
+     ],
+     [
+      "EXTERIOR",
+      3
+     ],
+     [
+      "FOCOS LED",
+      2
+     ],
+     [
+      "SOLAR",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "PANELS",
+      0
+     ],
+     [
+      "LÁMPARAS",
+      0
+     ],
+     [
+      "FOCOS",
+      0
+     ],
+     [
+      "REFLECTORS",
+      0
+     ],
+     [
+      "GUIRNALDAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "176937",
+      "PLAFÓN LED 18 W",
+      0,
+      50,
+      6
+     ],
+     [
+      "113825",
+      "LÁMPARA DE PIE",
+      0,
+      67,
+      9
+     ],
+     [
+      "123585",
+      "LÁMPARA SOLAR",
+      0,
+      42,
+      10
+     ],
+     [
+      "143436",
+      "FOCO LED 9 W X 3",
+      0,
+      139,
+      11
+     ],
+     [
+      "109208",
+      "REFLECTOR LED 50 W",
+      0,
+      36,
+      -1
+     ],
+     [
+      "107333",
+      "PANEL LED 60X60",
+      0,
+      34,
+      -9
+     ],
+     [
+      "173471",
+      "TIRA LED 5 M",
+      0,
+      100,
+      10
+     ],
+     [
+      "137579",
+      "GUIRNALDA DE LUCES",
+      0,
+      61,
+      -7
+     ]
+    ],
+    "q": [
+     [
+      "107333",
+      "PANEL LED 60X60",
+      0,
+      34
+     ],
+     [
+      "137579",
+      "GUIRNALDA DE LUCES",
+      0,
+      61
+     ],
+     [
+      "109208",
+      "REFLECTOR LED 50 W",
+      0,
+      36
+     ],
+     [
+      "176937",
+      "PLAFÓN LED 18 W",
+      0,
+      50
+     ],
+     [
+      "113825",
+      "LÁMPARA DE PIE",
+      0,
+      67
+     ],
+     [
+      "123585",
+      "LÁMPARA SOLAR",
+      0,
+      42
+     ],
+     [
+      "173471",
+      "TIRA LED 5 M",
+      0,
+      100
+     ],
+     [
+      "143436",
+      "FOCO LED 9 W X 3",
+      0,
+      139
+     ]
+    ],
+    "nq": 146
+   },
+   {
+    "a": "JARDIN",
+    "s": 9,
+    "u": 0,
+    "sku": 41,
+    "stock": 3848,
+    "deps": [
+     [
+      "PLANTAS",
+      6
+     ],
+     [
+      "MACETAS",
+      5
+     ],
+     [
+      "RIEGO",
+      4
+     ],
+     [
+      "SUSTRATOS",
+      3
+     ],
+     [
+      "HERRAMIENTAS DE JARDIN",
+      2
+     ],
+     [
+      "CERCOS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "ASPERSORS",
+      0
+     ],
+     [
+      "SUSTRATOS",
+      0
+     ],
+     [
+      "MANGUERAS",
+      0
+     ],
+     [
+      "MACETAS",
+      0
+     ],
+     [
+      "TIJERAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "156645",
+      "TIJERA DE PODAR",
+      0,
+      56,
+      7
+     ],
+     [
+      "126865",
+      "ASPERSOR GIRATORIO",
+      0,
+      50,
+      9
+     ],
+     [
+      "199035",
+      "MACETA 30 CM",
+      0,
+      34,
+      11
+     ],
+     [
+      "140036",
+      "CORTACÉSPED ELÉCTRICO",
+      0,
+      64,
+      6
+     ],
+     [
+      "125432",
+      "PLANTA DECORATIVA",
+      0,
+      15,
+      -3
+     ],
+     [
+      "117843",
+      "MALLA DE CERCO 1 M",
+      0,
+      11,
+      -4
+     ],
+     [
+      "123804",
+      "MANGUERA 15 M",
+      0,
+      14,
+      4
+     ],
+     [
+      "172775",
+      "SUSTRATO 25 L",
+      0,
+      10,
+      9
+     ]
+    ],
+    "q": [
+     [
+      "117843",
+      "MALLA DE CERCO 1 M",
+      0,
+      11
+     ],
+     [
+      "125432",
+      "PLANTA DECORATIVA",
+      0,
+      15
+     ],
+     [
+      "123804",
+      "MANGUERA 15 M",
+      0,
+      14
+     ],
+     [
+      "140036",
+      "CORTACÉSPED ELÉCTRICO",
+      0,
+      64
+     ],
+     [
+      "156645",
+      "TIJERA DE PODAR",
+      0,
+      56
+     ],
+     [
+      "126865",
+      "ASPERSOR GIRATORIO",
+      0,
+      50
+     ],
+     [
+      "172775",
+      "SUSTRATO 25 L",
+      0,
+      10
+     ],
+     [
+      "199035",
+      "MACETA 30 CM",
+      0,
+      34
+     ]
+    ],
+    "nq": 93
+   },
+   {
+    "a": "HERRAMIENTAS",
+    "s": 8,
+    "u": 0,
+    "sku": 224,
+    "stock": 3874,
+    "deps": [
+     [
+      "ACCESORIOS",
+      6
+     ],
+     [
+      "MEDICION",
+      5
+     ],
+     [
+      "ELECTRICAS",
+      4
+     ],
+     [
+      "MANUALES",
+      3
+     ],
+     [
+      "SEGURIDAD",
+      2
+     ],
+     [
+      "ALMACENAMIENTO",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "WINCHAS",
+      0
+     ],
+     [
+      "CAJAS",
+      0
+     ],
+     [
+      "AMOLADORAS",
+      0
+     ],
+     [
+      "TALADROS",
+      0
+     ],
+     [
+      "JUEGOS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "151685",
+      "AMOLADORA 4 1/2 IN",
+      0,
+      49,
+      10
+     ],
+     [
+      "101786",
+      "SET DE BROCAS 15 PIEZAS",
+      0,
+      129,
+      4
+     ],
+     [
+      "169422",
+      "WINCHA 5 M",
+      0,
+      34,
+      0
+     ],
+     [
+      "139823",
+      "LENTES DE SEGURIDAD",
+      0,
+      158,
+      -5
+     ],
+     [
+      "107035",
+      "JUEGO DE DESTORNILLADORES",
+      0,
+      26,
+      -1
+     ],
+     [
+      "107081",
+      "TALADRO PERCUTOR 650 W",
+      0,
+      44,
+      7
+     ],
+     [
+      "170923",
+      "SIERRA CALADORA",
+      0,
+      26,
+      -6
+     ],
+     [
+      "159678",
+      "CAJA DE HERRAMIENTAS 19 IN",
+      0,
+      96,
+      3
+     ]
+    ],
+    "q": [
+     [
+      "170923",
+      "SIERRA CALADORA",
+      0,
+      26
+     ],
+     [
+      "139823",
+      "LENTES DE SEGURIDAD",
+      0,
+      158
+     ],
+     [
+      "107035",
+      "JUEGO DE DESTORNILLADORES",
+      0,
+      26
+     ],
+     [
+      "169422",
+      "WINCHA 5 M",
+      0,
+      34
+     ],
+     [
+      "159678",
+      "CAJA DE HERRAMIENTAS 19 IN",
+      0,
+      96
+     ],
+     [
+      "101786",
+      "SET DE BROCAS 15 PIEZAS",
+      0,
+      129
+     ],
+     [
+      "107081",
+      "TALADRO PERCUTOR 650 W",
+      0,
+      44
+     ],
+     [
+      "151685",
+      "AMOLADORA 4 1/2 IN",
+      0,
+      49
+     ]
+    ],
+    "nq": 85
+   },
+   {
+    "a": "BAÑOS",
+    "s": 7,
+    "u": 0,
+    "sku": 376,
+    "stock": 2925,
+    "deps": [
+     [
+      "DUCHAS",
+      6
+     ],
+     [
+      "MUEBLES DE BAÑO",
+      5
+     ],
+     [
+      "GRIFERIA",
+      4
+     ],
+     [
+      "SANITARIOS",
+      3
+     ],
+     [
+      "ESPEJOS",
+      2
+     ],
+     [
+      "ACCESORIOS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "INODOROS",
+      0
+     ],
+     [
+      "LAVATORIOS",
+      0
+     ],
+     [
+      "DUCHAS",
+      0
+     ],
+     [
+      "GRIFERÍAS",
+      0
+     ],
+     [
+      "MUEBLES",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "166974",
+      "ESPEJO CON LUZ LED",
+      0,
+      106,
+      11
+     ],
+     [
+      "180335",
+      "GRIFERÍA MONOCOMANDO",
+      0,
+      48,
+      -2
+     ],
+     [
+      "123932",
+      "MUEBLE DE BAÑO 60 CM",
+      0,
+      39,
+      2
+     ],
+     [
+      "116554",
+      "MAMPARA CORREDIZA",
+      0,
+      23,
+      11
+     ],
+     [
+      "132658",
+      "SET DE ACCESORIOS 4 PIEZAS",
+      0,
+      37,
+      5
+     ],
+     [
+      "156718",
+      "LAVATORIO CON PEDESTAL",
+      0,
+      31,
+      12
+     ],
+     [
+      "136260",
+      "INODORO ONE PIECE",
+      0,
+      44,
+      2
+     ],
+     [
+      "183092",
+      "DUCHA ELÉCTRICA",
+      0,
+      7,
+      12
+     ]
+    ],
+    "q": [
+     [
+      "180335",
+      "GRIFERÍA MONOCOMANDO",
+      0,
+      48
+     ],
+     [
+      "123932",
+      "MUEBLE DE BAÑO 60 CM",
+      0,
+      39
+     ],
+     [
+      "136260",
+      "INODORO ONE PIECE",
+      0,
+      44
+     ],
+     [
+      "132658",
+      "SET DE ACCESORIOS 4 PIEZAS",
+      0,
+      37
+     ],
+     [
+      "166974",
+      "ESPEJO CON LUZ LED",
+      0,
+      106
+     ],
+     [
+      "116554",
+      "MAMPARA CORREDIZA",
+      0,
+      23
+     ],
+     [
+      "156718",
+      "LAVATORIO CON PEDESTAL",
+      0,
+      31
+     ],
+     [
+      "183092",
+      "DUCHA ELÉCTRICA",
+      0,
+      7
+     ]
+    ],
+    "nq": 75
+   },
+   {
+    "a": "LIMPIEZA",
+    "s": 6,
+    "u": 0,
+    "sku": 450,
+    "stock": 2634,
+    "deps": [
+     [
+      "PAÑOS",
+      6
+     ],
+     [
+      "DESINFECTANTES",
+      5
+     ],
+     [
+      "BOLSAS",
+      4
+     ],
+     [
+      "ASPIRADORAS",
+      3
+     ],
+     [
+      "ESCOBAS",
+      2
+     ],
+     [
+      "LIMPIADORES",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "ESCOBAS",
+      0
+     ],
+     [
+      "DESINFECTANTES",
+      0
+     ],
+     [
+      "BOLSAS",
+      0
+     ],
+     [
+      "PAÑOS",
+      0
+     ],
+     [
+      "LIMPIADORS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "106494",
+      "LIMPIADOR MULTIUSO 1 L",
+      0,
+      32,
+      9
+     ],
+     [
+      "140500",
+      "DESINFECTANTE 4 L",
+      0,
+      29,
+      1
+     ],
+     [
+      "193311",
+      "BOLSAS DE BASURA X 50",
+      0,
+      20,
+      3
+     ],
+     [
+      "196985",
+      "PAÑOS DE MICROFIBRA X 3",
+      0,
+      27,
+      -6
+     ],
+     [
+      "147751",
+      "GUANTES DE LIMPIEZA",
+      0,
+      96,
+      -4
+     ],
+     [
+      "127377",
+      "ESCOBA CON RECOGEDOR",
+      0,
+      12,
+      11
+     ],
+     [
+      "145495",
+      "TRAPEADOR GIRATORIO",
+      0,
+      18,
+      4
+     ],
+     [
+      "178567",
+      "ASPIRADORA 1200 W",
+      0,
+      6,
+      4
+     ]
+    ],
+    "q": [
+     [
+      "196985",
+      "PAÑOS DE MICROFIBRA X 3",
+      0,
+      27
+     ],
+     [
+      "147751",
+      "GUANTES DE LIMPIEZA",
+      0,
+      96
+     ],
+     [
+      "140500",
+      "DESINFECTANTE 4 L",
+      0,
+      29
+     ],
+     [
+      "193311",
+      "BOLSAS DE BASURA X 50",
+      0,
+      20
+     ],
+     [
+      "145495",
+      "TRAPEADOR GIRATORIO",
+      0,
+      18
+     ],
+     [
+      "178567",
+      "ASPIRADORA 1200 W",
+      0,
+      6
+     ],
+     [
+      "106494",
+      "LIMPIADOR MULTIUSO 1 L",
+      0,
+      32
+     ],
+     [
+      "127377",
+      "ESCOBA CON RECOGEDOR",
+      0,
+      12
+     ]
+    ],
+    "nq": 14
+   },
+   {
+    "a": "MUEBLES",
+    "s": 5,
+    "u": 0,
+    "sku": 232,
+    "stock": 1006,
+    "deps": [
+     [
+      "DORMITORIO",
+      6
+     ],
+     [
+      "SALA",
+      5
+     ],
+     [
+      "ORGANIZADORES",
+      4
+     ],
+     [
+      "EXTERIOR",
+      3
+     ],
+     [
+      "COMEDOR",
+      2
+     ],
+     [
+      "OFICINA",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "ROPEROS",
+      0
+     ],
+     [
+      "JUEGOS",
+      0
+     ],
+     [
+      "ZAPATERAS",
+      0
+     ],
+     [
+      "ESCRITORIOS",
+      0
+     ],
+     [
+      "SOFÁS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "174675",
+      "MESA DE CENTRO",
+      0,
+      27,
+      2
+     ],
+     [
+      "173479",
+      "VELADOR 2 CAJONES",
+      0,
+      26,
+      2
+     ],
+     [
+      "108779",
+      "SOFÁ 3 CUERPOS",
+      0,
+      19,
+      -8
+     ],
+     [
+      "133860",
+      "JUEGO DE COMEDOR 4 SILLAS",
+      0,
+      17,
+      -3
+     ],
+     [
+      "160522",
+      "ROPERO 3 PUERTAS",
+      0,
+      20,
+      -9
+     ],
+     [
+      "141536",
+      "SILLA DE OFICINA",
+      0,
+      13,
+      0
+     ],
+     [
+      "154448",
+      "ZAPATERA 4 NIVELES",
+      0,
+      31,
+      -10
+     ],
+     [
+      "164639",
+      "ESCRITORIO MELAMINA",
+      0,
+      3,
+      12
+     ]
+    ],
+    "q": [
+     [
+      "154448",
+      "ZAPATERA 4 NIVELES",
+      0,
+      31
+     ],
+     [
+      "160522",
+      "ROPERO 3 PUERTAS",
+      0,
+      20
+     ],
+     [
+      "108779",
+      "SOFÁ 3 CUERPOS",
+      0,
+      19
+     ],
+     [
+      "133860",
+      "JUEGO DE COMEDOR 4 SILLAS",
+      0,
+      17
+     ],
+     [
+      "141536",
+      "SILLA DE OFICINA",
+      0,
+      13
+     ],
+     [
+      "174675",
+      "MESA DE CENTRO",
+      0,
+      27
+     ],
+     [
+      "173479",
+      "VELADOR 2 CAJONES",
+      0,
+      26
+     ],
+     [
+      "164639",
+      "ESCRITORIO MELAMINA",
+      0,
+      3
+     ]
+    ],
+    "nq": 5
+   },
+   {
+    "a": "ELECTRICIDAD",
+    "s": 4,
+    "u": 0,
+    "sku": 196,
+    "stock": 3295,
+    "deps": [
+     [
+      "TOMACORRIENTES",
+      6
+     ],
+     [
+      "EXTENSIONES",
+      5
+     ],
+     [
+      "CABLES",
+      4
+     ],
+     [
+      "TABLEROS",
+      3
+     ],
+     [
+      "CANALETAS",
+      2
+     ],
+     [
+      "INTERRUPTORES",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "TOMACORRIENTES",
+      0
+     ],
+     [
+      "EXTENSIÓNS",
+      0
+     ],
+     [
+      "CABLES",
+      0
+     ],
+     [
+      "TABLEROS",
+      0
+     ],
+     [
+      "INTERRUPTORS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "116768",
+      "INTERRUPTOR SIMPLE",
+      0,
+      193,
+      -6
+     ],
+     [
+      "143123",
+      "LLAVE TERMOMAGNÉTICA 2X20 A",
+      0,
+      34,
+      2
+     ],
+     [
+      "102202",
+      "TABLERO 8 POLOS",
+      0,
+      21,
+      -1
+     ],
+     [
+      "176777",
+      "CABLE THW 14 AWG 100 M",
+      0,
+      24,
+      7
+     ],
+     [
+      "196326",
+      "TOMACORRIENTE DOBLE",
+      0,
+      41,
+      3
+     ],
+     [
+      "157057",
+      "CANALETA 20X12",
+      0,
+      17,
+      5
+     ],
+     [
+      "138921",
+      "CINTA AISLANTE",
+      0,
+      38,
+      10
+     ],
+     [
+      "183590",
+      "EXTENSIÓN 5 M",
+      0,
+      9,
+      -9
+     ]
+    ],
+    "q": [
+     [
+      "183590",
+      "EXTENSIÓN 5 M",
+      0,
+      9
+     ],
+     [
+      "116768",
+      "INTERRUPTOR SIMPLE",
+      0,
+      193
+     ],
+     [
+      "102202",
+      "TABLERO 8 POLOS",
+      0,
+      21
+     ],
+     [
+      "143123",
+      "LLAVE TERMOMAGNÉTICA 2X20 A",
+      0,
+      34
+     ],
+     [
+      "196326",
+      "TOMACORRIENTE DOBLE",
+      0,
+      41
+     ],
+     [
+      "157057",
+      "CANALETA 20X12",
+      0,
+      17
+     ],
+     [
+      "176777",
+      "CABLE THW 14 AWG 100 M",
+      0,
+      24
+     ],
+     [
+      "138921",
+      "CINTA AISLANTE",
+      0,
+      38
+     ]
+    ],
+    "nq": 89
+   },
+   {
+    "a": "FERRETERIA",
+    "s": 3,
+    "u": 0,
+    "sku": 364,
+    "stock": 3253,
+    "deps": [
+     [
+      "ADHESIVOS",
+      6
+     ],
+     [
+      "QUIMICOS",
+      5
+     ],
+     [
+      "CADENAS",
+      4
+     ],
+     [
+      "RUEDAS",
+      3
+     ],
+     [
+      "CERRAJERIA",
+      2
+     ],
+     [
+      "FIJACIONES",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "TARUGOS",
+      0
+     ],
+     [
+      "SILICONAS",
+      0
+     ],
+     [
+      "PEGAMENTOS",
+      0
+     ],
+     [
+      "CANDADOS",
+      0
+     ],
+     [
+      "CERRADURAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "198498",
+      "LUBRICANTE MULTIUSO",
+      0,
+      17,
+      -5
+     ],
+     [
+      "153080",
+      "SILICONA TRANSPARENTE",
+      0,
+      75,
+      -4
+     ],
+     [
+      "141970",
+      "CERRADURA DE POMO",
+      0,
+      18,
+      9
+     ],
+     [
+      "116354",
+      "CANDADO 40 MM",
+      0,
+      99,
+      -10
+     ],
+     [
+      "107415",
+      "BISAGRA 3 IN",
+      0,
+      19,
+      1
+     ],
+     [
+      "166699",
+      "RUEDA GIRATORIA 2 IN",
+      0,
+      9,
+      10
+     ],
+     [
+      "102940",
+      "PEGAMENTO DE CONTACTO",
+      0,
+      8,
+      -9
+     ],
+     [
+      "115221",
+      "TARUGO CON TORNILLO X 100",
+      0,
+      8,
+      4
+     ]
+    ],
+    "q": [
+     [
+      "116354",
+      "CANDADO 40 MM",
+      0,
+      99
+     ],
+     [
+      "102940",
+      "PEGAMENTO DE CONTACTO",
+      0,
+      8
+     ],
+     [
+      "198498",
+      "LUBRICANTE MULTIUSO",
+      0,
+      17
+     ],
+     [
+      "153080",
+      "SILICONA TRANSPARENTE",
+      0,
+      75
+     ],
+     [
+      "107415",
+      "BISAGRA 3 IN",
+      0,
+      19
+     ],
+     [
+      "115221",
+      "TARUGO CON TORNILLO X 100",
+      0,
+      8
+     ],
+     [
+      "141970",
+      "CERRADURA DE POMO",
+      0,
+      18
+     ],
+     [
+      "166699",
+      "RUEDA GIRATORIA 2 IN",
+      0,
+      9
+     ]
+    ],
+    "nq": 29
+   },
+   {
+    "a": "ALIMENTOS Y BEBIDAS",
+    "s": 2,
+    "u": 0,
+    "sku": 75,
+    "stock": 3514,
+    "deps": [
+     [
+      "SNACKS",
+      2
+     ],
+     [
+      "BEBIDAS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "CHOCOLATES",
+      0
+     ],
+     [
+      "CAFÉS",
+      0
+     ],
+     [
+      "AGUAS",
+      0
+     ],
+     [
+      "GASEOSAS",
+      0
+     ],
+     [
+      "GALLETAS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "100264",
+      "GASEOSA 500 ML",
+      0,
+      8,
+      -4
+     ],
+     [
+      "148183",
+      "CARAMELOS",
+      0,
+      7,
+      9
+     ],
+     [
+      "194536",
+      "CHOCOLATE",
+      0,
+      12,
+      9
+     ],
+     [
+      "112137",
+      "BARRA DE CEREAL",
+      0,
+      15,
+      0
+     ],
+     [
+      "194804",
+      "GALLETAS SURTIDAS",
+      0,
+      18,
+      -7
+     ],
+     [
+      "175052",
+      "AGUA 625 ML",
+      0,
+      22,
+      4
+     ],
+     [
+      "118566",
+      "CAFÉ INSTANTÁNEO",
+      0,
+      8,
+      11
+     ],
+     [
+      "151339",
+      "JUGO 1 L",
+      0,
+      6,
+      8
+     ]
+    ],
+    "q": [
+     [
+      "194804",
+      "GALLETAS SURTIDAS",
+      0,
+      18
+     ],
+     [
+      "100264",
+      "GASEOSA 500 ML",
+      0,
+      8
+     ],
+     [
+      "112137",
+      "BARRA DE CEREAL",
+      0,
+      15
+     ],
+     [
+      "175052",
+      "AGUA 625 ML",
+      0,
+      22
+     ],
+     [
+      "151339",
+      "JUGO 1 L",
+      0,
+      6
+     ],
+     [
+      "148183",
+      "CARAMELOS",
+      0,
+      7
+     ],
+     [
+      "194536",
+      "CHOCOLATE",
+      0,
+      12
+     ],
+     [
+      "118566",
+      "CAFÉ INSTANTÁNEO",
+      0,
+      8
+     ]
+    ],
+    "nq": 82
+   },
+   {
+    "a": "PROMOCIONES",
+    "s": 1,
+    "u": 0,
+    "sku": 328,
+    "stock": 501,
+    "deps": [
+     [
+      "OFERTAS",
+      1
+     ]
+    ],
+    "lines": [
+     [
+      "COMBOS",
+      0
+     ],
+     [
+      "PACKS",
+      0
+     ],
+     [
+      "OFERTAS",
+      0
+     ],
+     [
+      "LIQUIDACIÓNS",
+      0
+     ],
+     [
+      "PROMOS",
+      0
+     ]
+    ],
+    "top": [
+     [
+      "181310",
+      "COMBO DE PINTURA",
+      0,
+      5,
+      -6
+     ],
+     [
+      "189812",
+      "LIQUIDACIÓN DE CERÁMICOS",
+      0,
+      4,
+      -6
+     ],
+     [
+      "193163",
+      "COMBO DE BAÑO",
+      0,
+      4,
+      2
+     ],
+     [
+      "169636",
+      "OFERTA DE TEMPORADA",
+      0,
+      4,
+      2
+     ],
+     [
+      "143958",
+      "PACK DE LIMPIEZA",
+      0,
+      3,
+      5
+     ],
+     [
+      "101333",
+      "SET DE JARDÍN",
+      0,
+      2,
+      -3
+     ],
+     [
+      "142029",
+      "PROMO DE HERRAMIENTAS",
+      0,
+      8,
+      -4
+     ],
+     [
+      "118187",
+      "PACK DE FOCOS LED",
+      0,
+      1,
+      -10
+     ]
+    ],
+    "q": [
+     [
+      "118187",
+      "PACK DE FOCOS LED",
+      0,
+      1
+     ],
+     [
+      "181310",
+      "COMBO DE PINTURA",
+      0,
+      5
+     ],
+     [
+      "189812",
+      "LIQUIDACIÓN DE CERÁMICOS",
+      0,
+      4
+     ],
+     [
+      "142029",
+      "PROMO DE HERRAMIENTAS",
+      0,
+      8
+     ],
+     [
+      "101333",
+      "SET DE JARDÍN",
+      0,
+      2
+     ],
+     [
+      "193163",
+      "COMBO DE BAÑO",
+      0,
+      4
+     ],
+     [
+      "169636",
+      "OFERTA DE TEMPORADA",
+      0,
+      4
+     ],
+     [
+      "143958",
+      "PACK DE LIMPIEZA",
+      0,
+      3
+     ]
+    ],
+    "nq": 46
+   }
+  ]
+ },
+ "sup": {
+  "fecha": "01/10/2026",
+  "total": 6305827,
+  "areas": [
+   {
+    "a": "ELECTRO HOGAR",
+    "s": 751854,
+    "u": 1816,
+    "sku": 70,
+    "stock": 3721,
+    "deps": [
+     [
+      "PEQUEÑOS ELECTRO",
+      214832
+     ],
+     [
+      "LINEA BLANCA",
+      173224
+     ],
+     [
+      "EMPOTRADO",
+      149410
+     ],
+     [
+      "TV Y AUDIO",
+      98884
+     ],
+     [
+      "ACCESORIOS",
+      69306
+     ],
+     [
+      "CLIMATIZACION",
+      46195
+     ]
+    ],
+    "lines": [
+     [
+      "LAVADORAS",
+      131266
+     ],
+     [
+      "HORNOS",
+      119367
+     ],
+     [
+      "MICROONDAS",
+      88814
+     ],
+     [
+      "LICUADORAS",
+      87272
+     ],
+     [
+      "REFRIGERADORAS",
+      60989
+     ]
+    ],
+    "top": [
+     [
+      "136264",
+      "CAMPANA EXTRACTORA 60 CM",
+      63019,
+      108,
+      4
+     ],
+     [
+      "135632",
+      "LICUADORA 1.5 L",
+      46556,
+      547,
+      8
+     ],
+     [
+      "123219",
+      "REFRIGERADORA NO FROST 300 L",
+      32958,
+      375,
+      1
+     ],
+     [
+      "159057",
+      "MICROONDAS 20 L",
+      31101,
+      259,
+      -8
+     ],
+     [
+      "108612",
+      "COCINA 4 HORNILLAS",
+      22083,
+      160,
+      -6
+     ],
+     [
+      "114089",
+      "LAVADORA CARGA SUPERIOR 9 KG",
+      17132,
+      43,
+      -10
+     ],
+     [
+      "115477",
+      "HORNO A GAS 70 L",
+      11353,
+      52,
+      11
+     ],
+     [
+      "170038",
+      "VENTILADOR DE PIE 16 IN",
+      8058,
+      22,
+      5
+     ]
+    ],
+    "q": [
+     [
+      "114089",
+      "LAVADORA CARGA SUPERIOR 9 KG",
+      17132,
+      43
+     ],
+     [
+      "159057",
+      "MICROONDAS 20 L",
+      31101,
+      259
+     ],
+     [
+      "108612",
+      "COCINA 4 HORNILLAS",
+      22083,
+      160
+     ],
+     [
+      "123219",
+      "REFRIGERADORA NO FROST 300 L",
+      32958,
+      375
+     ],
+     [
+      "136264",
+      "CAMPANA EXTRACTORA 60 CM",
+      63019,
+      108
+     ],
+     [
+      "170038",
+      "VENTILADOR DE PIE 16 IN",
+      8058,
+      22
+     ],
+     [
+      "135632",
+      "LICUADORA 1.5 L",
+      46556,
+      547
+     ],
+     [
+      "115477",
+      "HORNO A GAS 70 L",
+      11353,
+      52
+     ]
+    ],
+    "nq": 31
+   },
+   {
+    "a": "MATERIALES DE CONSTRUCCION",
+    "s": 672448,
+    "u": 4437,
+    "sku": 577,
+    "stock": 1050,
+    "deps": [
+     [
+      "CEMENTOS",
+      231775
+     ],
+     [
+      "MADERAS",
+      200136
+     ],
+     [
+      "IMPERMEABILIZANTES",
+      118601
+     ],
+     [
+      "AGREGADOS",
+      74034
+     ],
+     [
+      "DRYWALL",
+      41435
+     ],
+     [
+      "FIERROS",
+      6465
+     ]
+    ],
+    "lines": [
+     [
+      "LADRILLOS",
+      122428
+     ],
+     [
+      "CEMENTOS",
+      116653
+     ],
+     [
+      "FIERROS",
+      72151
+     ],
+     [
+      "ARENAS",
+      50844
+     ],
+     [
+      "PLANCHAS",
+      36912
+     ]
+    ],
+    "top": [
+     [
+      "163624",
+      "CEMENTO TIPO I 42.5 KG",
+      42579,
+      159,
+      -2
+     ],
+     [
+      "182387",
+      "TRIPLAY 4 MM",
+      39410,
+      70,
+      7
+     ],
+     [
+      "153773",
+      "IMPERMEABILIZANTE 4 L",
+      26459,
+      50,
+      -1
+     ],
+     [
+      "103868",
+      "FIERRO CORRUGADO 1/2 IN",
+      22434,
+      85,
+      10
+     ],
+     [
+      "145407",
+      "PERFIL PARANTE 89 MM",
+      18913,
+      35,
+      -1
+     ],
+     [
+      "167485",
+      "ARENA GRUESA SACO",
+      17385,
+      45,
+      9
+     ],
+     [
+      "112491",
+      "PLANCHA DE DRYWALL 1/2 IN",
+      10740,
+      42,
+      -2
+     ],
+     [
+      "180418",
+      "LADRILLO PANDERETA",
+      8820,
+      17,
+      -3
+     ]
+    ],
+    "q": [
+     [
+      "180418",
+      "LADRILLO PANDERETA",
+      8820,
+      17
+     ],
+     [
+      "163624",
+      "CEMENTO TIPO I 42.5 KG",
+      42579,
+      159
+     ],
+     [
+      "112491",
+      "PLANCHA DE DRYWALL 1/2 IN",
+      10740,
+      42
+     ],
+     [
+      "153773",
+      "IMPERMEABILIZANTE 4 L",
+      26459,
+      50
+     ],
+     [
+      "145407",
+      "PERFIL PARANTE 89 MM",
+      18913,
+      35
+     ],
+     [
+      "182387",
+      "TRIPLAY 4 MM",
+      39410,
+      70
+     ],
+     [
+      "167485",
+      "ARENA GRUESA SACO",
+      17385,
+      45
+     ],
+     [
+      "103868",
+      "FIERRO CORRUGADO 1/2 IN",
+      22434,
+      85
+     ]
+    ],
+    "nq": 103
+   },
+   {
+    "a": "TENDENCIAS",
+    "s": 509255,
+    "u": 1739,
+    "sku": 390,
+    "stock": 454,
+    "deps": [
+     [
+      "NOVEDADES",
+      122685
+     ],
+     [
+      "ORGANIZACION",
+      115885
+     ],
+     [
+      "DIGITAL",
+      101820
+     ],
+     [
+      "TEMPORADA",
+      85447
+     ],
+     [
+      "DECORACION",
+      51171
+     ],
+     [
+      "HOGAR INTELIGENTE",
+      32243
+     ]
+    ],
+    "lines": [
+     [
+      "FOCOS",
+      110922
+     ],
+     [
+      "ENCHUFES",
+      72024
+     ],
+     [
+      "DIFUSORS",
+      59018
+     ],
+     [
+      "CÁMARAS",
+      55962
+     ],
+     [
+      "TIMBRES",
+      25929
+     ]
+    ],
+    "top": [
+     [
+      "178387",
+      "FOCO INTELIGENTE",
+      45653,
+      91,
+      -8
+     ],
+     [
+      "132694",
+      "SENSOR DE MOVIMIENTO",
+      35774,
+      839,
+      8
+     ],
+     [
+      "124840",
+      "CÁMARA DE SEGURIDAD WI-FI",
+      31487,
+      211,
+      1
+     ],
+     [
+      "160524",
+      "ORGANIZADOR MODULAR",
+      27908,
+      279,
+      3
+     ],
+     [
+      "140173",
+      "DIFUSOR DE AROMAS",
+      27399,
+      47,
+      -6
+     ],
+     [
+      "125874",
+      "LÁMPARA DE ESCRITORIO",
+      24409,
+      93,
+      6
+     ],
+     [
+      "197069",
+      "ENCHUFE INTELIGENTE",
+      12989,
+      117,
+      2
+     ],
+     [
+      "155421",
+      "TIMBRE INALÁMBRICO",
+      5786,
+      176,
+      1
+     ]
+    ],
+    "q": [
+     [
+      "178387",
+      "FOCO INTELIGENTE",
+      45653,
+      91
+     ],
+     [
+      "140173",
+      "DIFUSOR DE AROMAS",
+      27399,
+      47
+     ],
+     [
+      "124840",
+      "CÁMARA DE SEGURIDAD WI-FI",
+      31487,
+      211
+     ],
+     [
+      "155421",
+      "TIMBRE INALÁMBRICO",
+      5786,
+      176
+     ],
+     [
+      "197069",
+      "ENCHUFE INTELIGENTE",
+      12989,
+      117
+     ],
+     [
+      "160524",
+      "ORGANIZADOR MODULAR",
+      27908,
+      279
+     ],
+     [
+      "125874",
+      "LÁMPARA DE ESCRITORIO",
+      24409,
+      93
+     ],
+     [
+      "132694",
+      "SENSOR DE MOVIMIENTO",
+      35774,
+      839
+     ]
+    ],
+    "nq": 6
+   },
+   {
+    "a": "PINTURAS",
+    "s": 506123,
+    "u": 2089,
+    "sku": 146,
+    "stock": 2732,
+    "deps": [
+     [
+      "BARNICES",
+      159340
+     ],
+     [
+      "SPRAY",
+      139196
+     ],
+     [
+      "ESMALTES",
+      98372
+     ],
+     [
+      "IMPRIMANTES",
+      75103
+     ],
+     [
+      "LATEX",
+      30595
+     ],
+     [
+      "ACCESORIOS",
+      3515
+     ]
+    ],
+    "lines": [
+     [
+      "IMPRIMANTES",
+      120986
+     ],
+     [
+      "RODILLOS",
+      105111
+     ],
+     [
+      "BARNIZS",
+      85771
+     ],
+     [
+      "PINTURAS",
+      57001
+     ],
+     [
+      "ESMALTES",
+      29866
+     ]
+    ],
+    "top": [
+     [
+      "174431",
+      "RODILLO 9 IN",
+      36810,
+      148,
+      4
+     ],
+     [
+      "147995",
+      "BROCHA 3 IN",
+      35128,
+      98,
+      5
+     ],
+     [
+      "142866",
+      "CINTA MASKING 2 IN",
+      29944,
+      101,
+      -1
+     ],
+     [
+      "132487",
+      "IMPRIMANTE 4 L",
+      28641,
+      99,
+      2
+     ],
+     [
+      "175101",
+      "ESMALTE SINTÉTICO 1 GAL",
+      16940,
+      76,
+      4
+     ],
+     [
+      "105669",
+      "PINTURA EN SPRAY NEGRO",
+      14487,
+      41,
+      11
+     ],
+     [
+      "165606",
+      "BARNIZ MARINO 1 L",
+      11863,
+      32,
+      12
+     ],
+     [
+      "101724",
+      "PINTURA LÁTEX 4 L BLANCO",
+      5717,
+      16,
+      7
+     ]
+    ],
+    "q": [
+     [
+      "142866",
+      "CINTA MASKING 2 IN",
+      29944,
+      101
+     ],
+     [
+      "132487",
+      "IMPRIMANTE 4 L",
+      28641,
+      99
+     ],
+     [
+      "174431",
+      "RODILLO 9 IN",
+      36810,
+      148
+     ],
+     [
+      "175101",
+      "ESMALTE SINTÉTICO 1 GAL",
+      16940,
+      76
+     ],
+     [
+      "147995",
+      "BROCHA 3 IN",
+      35128,
+      98
+     ],
+     [
+      "101724",
+      "PINTURA LÁTEX 4 L BLANCO",
+      5717,
+      16
+     ],
+     [
+      "105669",
+      "PINTURA EN SPRAY NEGRO",
+      14487,
+      41
+     ],
+     [
+      "165606",
+      "BARNIZ MARINO 1 L",
+      11863,
+      32
+     ]
+    ],
+    "nq": 16
+   },
+   {
+    "a": "PISOS Y REVESTIMIENTOS",
+    "s": 480776,
+    "u": 1277,
+    "sku": 570,
+    "stock": 1530,
+    "deps": [
+     [
+      "FRAGUAS",
+      238805
+     ],
+     [
+      "PISOS LAMINADOS",
+      111868
+     ],
+     [
+      "PORCELANATOS",
+      66388
+     ],
+     [
+      "CERAMICOS",
+      33274
+     ],
+     [
+      "ZOCALOS",
+      23426
+     ],
+     [
+      "PEGAMENTOS",
+      7013
+     ]
+    ],
+    "lines": [
+     [
+      "PISOS",
+      111117
+     ],
+     [
+      "CERÁMICOS",
+      94150
+     ],
+     [
+      "FRAGUAS",
+      86124
+     ],
+     [
+      "PEGAMENTOS",
+      46279
+     ],
+     [
+      "PORCELANATOS",
+      27971
+     ]
+    ],
+    "top": [
+     [
+      "116935",
+      "PORCELANATO 60X60 GRIS",
+      39816,
+      85,
+      -2
+     ],
+     [
+      "147893",
+      "CERÁMICO PARED 30X60",
+      25309,
+      387,
+      9
+     ],
+     [
+      "159497",
+      "ZÓCALO PVC 2.4 M",
+      23348,
+      595,
+      -2
+     ],
+     [
+      "161976",
+      "PORCELANATO MADERA 20X120",
+      22924,
+      46,
+      5
+     ],
+     [
+      "150822",
+      "CERÁMICO 45X45 BEIGE",
+      18112,
+      86,
+      -8
+     ],
+     [
+      "105528",
+      "PISO LAMINADO 8 MM ROBLE",
+      15866,
+      28,
+      -4
+     ],
+     [
+      "174124",
+      "FRAGUA BLANCA 2 KG",
+      15012,
+      47,
+      -1
+     ],
+     [
+      "122605",
+      "PEGAMENTO PARA CERÁMICO 25 KG",
+      9710,
+      21,
+      2
+     ]
+    ],
+    "q": [
+     [
+      "150822",
+      "CERÁMICO 45X45 BEIGE",
+      18112,
+      86
+     ],
+     [
+      "105528",
+      "PISO LAMINADO 8 MM ROBLE",
+      15866,
+      28
+     ],
+     [
+      "116935",
+      "PORCELANATO 60X60 GRIS",
+      39816,
+      85
+     ],
+     [
+      "159497",
+      "ZÓCALO PVC 2.4 M",
+      23348,
+      595
+     ],
+     [
+      "174124",
+      "FRAGUA BLANCA 2 KG",
+      15012,
+      47
+     ],
+     [
+      "122605",
+      "PEGAMENTO PARA CERÁMICO 25 KG",
+      9710,
+      21
+     ],
+     [
+      "161976",
+      "PORCELANATO MADERA 20X120",
+      22924,
+      46
+     ],
+     [
+      "147893",
+      "CERÁMICO PARED 30X60",
+      25309,
+      387
+     ]
+    ],
+    "nq": 78
+   },
+   {
+    "a": "SERVICIOS",
+    "s": 442868,
+    "u": 1493,
+    "sku": 90,
+    "stock": 4710,
+    "deps": [
+     [
+      "DESPACHO",
+      260543
+     ],
+     [
+      "INSTALACION",
+      182324
+     ]
+    ],
+    "lines": [
+     [
+      "SERVICIOS",
+      78031
+     ],
+     [
+      "MEZCLAS",
+      69586
+     ],
+     [
+      "CORTES",
+      65656
+     ],
+     [
+      "SERVICIOS",
+      57195
+     ],
+     [
+      "ARMADOS",
+      28905
+     ]
+    ],
+    "top": [
+     [
+      "161312",
+      "VISITA TÉCNICA",
+      33087,
+      55,
+      -10
+     ],
+     [
+      "146839",
+      "SERVICIO DE INSTALACIÓN",
+      30462,
+      109,
+      -7
+     ],
+     [
+      "198019",
+      "INSTALACIÓN DE PISO",
+      30262,
+      179,
+      1
+     ],
+     [
+      "126839",
+      "MEZCLA DE PINTURA",
+      27066,
+      114,
+      0
+     ],
+     [
+      "149036",
+      "INSTALACIÓN DE TERMA",
+      26968,
+      75,
+      0
+     ],
+     [
+      "120064",
+      "SERVICIO DE DESPACHO",
+      23190,
+      78,
+      -10
+     ],
+     [
+      "135003",
+      "ARMADO DE MUEBLES",
+      16387,
+      147,
+      10
+     ],
+     [
+      "188266",
+      "CORTE DE MADERA",
+      8832,
+      113,
+      3
+     ]
+    ],
+    "q": [
+     [
+      "161312",
+      "VISITA TÉCNICA",
+      33087,
+      55
+     ],
+     [
+      "120064",
+      "SERVICIO DE DESPACHO",
+      23190,
+      78
+     ],
+     [
+      "146839",
+      "SERVICIO DE INSTALACIÓN",
+      30462,
+      109
+     ],
+     [
+      "126839",
+      "MEZCLA DE PINTURA",
+      27066,
+      114
+     ],
+     [
+      "149036",
+      "INSTALACIÓN DE TERMA",
+      26968,
+      75
+     ],
+     [
+      "198019",
+      "INSTALACIÓN DE PISO",
+      30262,
+      179
+     ],
+     [
+      "188266",
+      "CORTE DE MADERA",
+      8832,
+      113
+     ],
+     [
+      "135003",
+      "ARMADO DE MUEBLES",
+      16387,
+      147
+     ]
+    ],
+    "nq": 79
+   },
+   {
+    "a": "ORGANIZACION Y DECORACION",
+    "s": 436041,
+    "u": 2590,
+    "sku": 346,
+    "stock": 2406,
+    "deps": [
+     [
+      "ALFOMBRAS",
+      97582
+     ],
+     [
+      "CORTINAS",
+      91414
+     ],
+     [
+      "CUADROS",
+      76776
+     ],
+     [
+      "DECORACION",
+      71729
+     ],
+     [
+      "TEXTILES",
+      52360
+     ],
+     [
+      "CAJAS",
+      46177
+     ]
+    ],
+    "lines": [
+     [
+      "CORTINAS",
+      94206
+     ],
+     [
+      "CAJAS",
+      72936
+     ],
+     [
+      "CUADROS",
+      72898
+     ],
+     [
+      "COJÍNS",
+      62665
+     ],
+     [
+      "ALFOMBRAS",
+      36998
+     ]
+    ],
+    "top": [
+     [
+      "102309",
+      "CUADRO DECORATIVO 50X70",
+      25646,
+      90,
+      9
+     ],
+     [
+      "162489",
+      "CAJA ORGANIZADORA 60 L",
+      25159,
+      46,
+      4
+     ],
+     [
+      "164755",
+      "RELOJ DE PARED",
+      24913,
+      53,
+      -3
+     ],
+     [
+      "185510",
+      "CORTINA BLACKOUT",
+      23343,
+      63,
+      1
+     ],
+     [
+      "131584",
+      "FLORERO DE VIDRIO",
+      21153,
+      38,
+      -2
+     ],
+     [
+      "127320",
+      "COJÍN DECORATIVO",
+      16915,
+      106,
+      -2
+     ],
+     [
+      "126520",
+      "REPISA FLOTANTE",
+      13404,
+      99,
+      -4
+     ],
+     [
+      "144070",
+      "ALFOMBRA 160X230",
+      7544,
+      26,
+      0
+     ]
+    ],
+    "q": [
+     [
+      "126520",
+      "REPISA FLOTANTE",
+      13404,
+      99
+     ],
+     [
+      "164755",
+      "RELOJ DE PARED",
+      24913,
+      53
+     ],
+     [
+      "131584",
+      "FLORERO DE VIDRIO",
+      21153,
+      38
+     ],
+     [
+      "127320",
+      "COJÍN DECORATIVO",
+      16915,
+      106
+     ],
+     [
+      "144070",
+      "ALFOMBRA 160X230",
+      7544,
+      26
+     ],
+     [
+      "185510",
+      "CORTINA BLACKOUT",
+      23343,
+      63
+     ],
+     [
+      "162489",
+      "CAJA ORGANIZADORA 60 L",
+      25159,
+      46
+     ],
+     [
+      "102309",
+      "CUADRO DECORATIVO 50X70",
+      25646,
+      90
+     ]
+    ],
+    "nq": 135
+   },
+   {
+    "a": "COCINA",
+    "s": 391521,
+    "u": 1959,
+    "sku": 60,
+    "stock": 2013,
+    "deps": [
+     [
+      "SARTENES",
+      84038
+     ],
+     [
+      "VAJILLA",
+      79884
+     ],
+     [
+      "PEQUEÑOS",
+      77884
+     ],
+     [
+      "CUCHILLERIA",
+      69133
+     ],
+     [
+      "ORGANIZACION",
+      52819
+     ],
+     [
+      "OLLAS",
+      27761
+     ]
+    ],
+    "lines": [
+     [
+      "VAJILLAS",
+      66447
+     ],
+     [
+      "SETS",
+      57207
+     ],
+     [
+      "JUEGOS",
+      55967
+     ],
+     [
+      "SARTÉNS",
+      50552
+     ],
+     [
+      "ESCURRIDORS",
+      29878
+     ]
+    ],
+    "top": [
+     [
+      "136655",
+      "HERVIDOR ELÉCTRICO",
+      31711,
+      108,
+      12
+     ],
+     [
+      "100126",
+      "TABLA DE PICAR",
+      29394,
+      68,
+      0
+     ],
+     [
+      "126109",
+      "ESCURRIDOR DE PLATOS",
+      28122,
+      657,
+      -3
+     ],
+     [
+      "151752",
+      "SET DE CUCHILLOS",
+      27135,
+      80,
+      -7
+     ],
+     [
+      "133975",
+      "JUEGO DE OLLAS 5 PIEZAS",
+      15723,
+      46,
+      -3
+     ],
+     [
+      "147455",
+      "VAJILLA 16 PIEZAS",
+      9545,
+      19,
+      -3
+     ],
+     [
+      "144447",
+      "SARTÉN ANTIADHERENTE 24 CM",
+      7041,
+      82,
+      7
+     ],
+     [
+      "162901",
+      "SET DE TÁPERES",
+      4267,
+      11,
+      5
+     ]
+    ],
+    "q": [
+     [
+      "151752",
+      "SET DE CUCHILLOS",
+      27135,
+      80
+     ],
+     [
+      "126109",
+      "ESCURRIDOR DE PLATOS",
+      28122,
+      657
+     ],
+     [
+      "133975",
+      "JUEGO DE OLLAS 5 PIEZAS",
+      15723,
+      46
+     ],
+     [
+      "147455",
+      "VAJILLA 16 PIEZAS",
+      9545,
+      19
+     ],
+     [
+      "100126",
+      "TABLA DE PICAR",
+      29394,
+      68
+     ],
+     [
+      "162901",
+      "SET DE TÁPERES",
+      4267,
+      11
+     ],
+     [
+      "144447",
+      "SARTÉN ANTIADHERENTE 24 CM",
+      7041,
+      82
+     ],
+     [
+      "136655",
+      "HERVIDOR ELÉCTRICO",
+      31711,
+      108
+     ]
+    ],
+    "nq": 24
+   },
+   {
+    "a": "GASFITERIA",
+    "s": 314566,
+    "u": 844,
+    "sku": 507,
+    "stock": 4361,
+    "deps": [
+     [
+      "CONEXIONES",
+      77591
+     ],
+     [
+      "TUBERIAS",
+      73095
+     ],
+     [
+      "TERMAS",
+      69775
+     ],
+     [
+      "TANQUES",
+      53739
+     ],
+     [
+      "VALVULAS",
+      34861
+     ],
+     [
+      "BOMBAS",
+      5502
+     ]
+    ],
+    "lines": [
+     [
+      "TERMAS",
+      55268
+     ],
+     [
+      "CODOS",
+      52826
+     ],
+     [
+      "TUBOS",
+      43059
+     ],
+     [
+      "TANQUES",
+      36668
+     ],
+     [
+      "BOMBAS",
+      16178
+     ]
+    ],
+    "top": [
+     [
+      "144270",
+      "CINTA TEFLÓN",
+      26506,
+      65,
+      -6
+     ],
+     [
+      "168500",
+      "CODO PVC 1/2 IN",
+      23798,
+      42,
+      11
+     ],
+     [
+      "103047",
+      "VÁLVULA ESFÉRICA 1/2 IN",
+      23075,
+      645,
+      0
+     ],
+     [
+      "157752",
+      "TUBO PVC 1/2 IN 5 M",
+      19986,
+      96,
+      8
+     ],
+     [
+      "183533",
+      "TERMA ELÉCTRICA 50 L",
+      18203,
+      32,
+      -5
+     ],
+     [
+      "142005",
+      "TANQUE DE AGUA 1100 L",
+      12948,
+      46,
+      1
+     ],
+     [
+      "128266",
+      "BOMBA PERIFÉRICA 1/2 HP",
+      10850,
+      33,
+      7
+     ],
+     [
+      "104948",
+      "LLAVE DE PASO",
+      6126,
+      36,
+      1
+     ]
+    ],
+    "q": [
+     [
+      "144270",
+      "CINTA TEFLÓN",
+      26506,
+      65
+     ],
+     [
+      "183533",
+      "TERMA ELÉCTRICA 50 L",
+      18203,
+      32
+     ],
+     [
+      "103047",
+      "VÁLVULA ESFÉRICA 1/2 IN",
+      23075,
+      645
+     ],
+     [
+      "142005",
+      "TANQUE DE AGUA 1100 L",
+      12948,
+      46
+     ],
+     [
+      "104948",
+      "LLAVE DE PASO",
+      6126,
+      36
+     ],
+     [
+      "128266",
+      "BOMBA PERIFÉRICA 1/2 HP",
+      10850,
+      33
+     ],
+     [
+      "157752",
+      "TUBO PVC 1/2 IN 5 M",
+      19986,
+      96
+     ],
+     [
+      "168500",
+      "CODO PVC 1/2 IN",
+      23798,
+      42
+     ]
+    ],
+    "nq": 122
+   },
+   {
+    "a": "AIRE LIBRE Y TEMPORADA",
+    "s": 308528,
+    "u": 974,
+    "sku": 153,
+    "stock": 2561,
+    "deps": [
+     [
+      "CAMPING",
+      80618
+     ],
+     [
+      "PISCINAS",
+      70522
+     ],
+     [
+      "SOMBRILLAS",
+      42945
+     ],
+     [
+      "TERRAZA",
+      40892
+     ],
+     [
+      "TEMPORADA",
+      40605
+     ],
+     [
+      "PARRILLAS",
+      32944
+     ]
+    ],
+    "lines": [
+     [
+      "SOMBRILLAS",
+      53008
+     ],
+     [
+      "PISCINAS",
+      47937
+     ],
+     [
+      "CARPAS",
+      44246
+     ],
+     [
+      "JUEGOS",
+      33105
+     ],
+     [
+      "PARRILLAS",
+      30165
+     ]
+    ],
+    "top": [
+     [
+      "166403",
+      "PISCINA INFLABLE 3 M",
+      26071,
+      70,
+      11
+     ],
+     [
+      "130420",
+      "JUEGO DE TERRAZA 4 SILLAS",
+      25372,
+      96,
+      11
+     ],
+     [
+      "184558",
+      "CARPA 4 PERSONAS",
+      14896,
+      77,
+      -2
+     ],
+     [
+      "133413",
+      "PARRILLA A CARBÓN",
+      13526,
+      91,
+      -7
+     ],
+     [
+      "167893",
+      "SILLA PLEGABLE",
+      11802,
+      29,
+      10
+     ],
+     [
+      "143889",
+      "HAMACA",
+      6690,
+      17,
+      -5
+     ],
+     [
+      "155382",
+      "SOMBRILLA 2.7 M",
+      4591,
+      12,
+      -5
+     ],
+     [
+      "146123",
+      "COOLER 50 L",
+      4583,
+      10,
+      5
+     ]
+    ],
+    "q": [
+     [
+      "133413",
+      "PARRILLA A CARBÓN",
+      13526,
+      91
+     ],
+     [
+      "143889",
+      "HAMACA",
+      6690,
+      17
+     ],
+     [
+      "155382",
+      "SOMBRILLA 2.7 M",
+      4591,
+      12
+     ],
+     [
+      "184558",
+      "CARPA 4 PERSONAS",
+      14896,
+      77
+     ],
+     [
+      "146123",
+      "COOLER 50 L",
+      4583,
+      10
+     ],
+     [
+      "167893",
+      "SILLA PLEGABLE",
+      11802,
+      29
+     ],
+     [
+      "166403",
+      "PISCINA INFLABLE 3 M",
+      26071,
+      70
+     ],
+     [
+      "130420",
+      "JUEGO DE TERRAZA 4 SILLAS",
+      25372,
+      96
+     ]
+    ],
+    "nq": 51
+   },
+   {
+    "a": "ILUMINACION",
+    "s": 276661,
+    "u": 656,
+    "sku": 408,
+    "stock": 2764,
+    "deps": [
+     [
+      "LAMPARAS",
+      75943
+     ],
+     [
+      "PANELES",
+      65684
+     ],
+     [
+      "DECORATIVA",
+      64366
+     ],
+     [
+      "EXTERIOR",
+      37656
+     ],
+     [
+      "FOCOS LED",
+      27499
+     ],
+     [
+      "SOLAR",
+      5510
+     ]
+    ],
+    "lines": [
+     [
+      "PANELS",
+      60405
+     ],
+     [
+      "LÁMPARAS",
+      48604
+     ],
+     [
+      "FOCOS",
+      47416
+     ],
+     [
+      "REFLECTORS",
+      37431
+     ],
+     [
+      "GUIRNALDAS",
+      22139
+     ]
+    ],
+    "top": [
+     [
+      "176937",
+      "PLAFÓN LED 18 W",
+      21693,
+      50,
+      6
+     ],
+     [
+      "113825",
+      "LÁMPARA DE PIE",
+      18626,
+      67,
+      9
+     ],
+     [
+      "123585",
+      "LÁMPARA SOLAR",
+      18248,
+      42,
+      10
+     ],
+     [
+      "143436",
+      "FOCO LED 9 W X 3",
+      7337,
+      139,
+      11
+     ],
+     [
+      "109208",
+      "REFLECTOR LED 50 W",
+      6637,
+      36,
+      -1
+     ],
+     [
+      "107333",
+      "PANEL LED 60X60",
+      6249,
+      34,
+      -9
+     ],
+     [
+      "173471",
+      "TIRA LED 5 M",
+      5964,
+      100,
+      10
+     ],
+     [
+      "137579",
+      "GUIRNALDA DE LUCES",
+      5636,
+      61,
+      -7
+     ]
+    ],
+    "q": [
+     [
+      "107333",
+      "PANEL LED 60X60",
+      6249,
+      34
+     ],
+     [
+      "137579",
+      "GUIRNALDA DE LUCES",
+      5636,
+      61
+     ],
+     [
+      "109208",
+      "REFLECTOR LED 50 W",
+      6637,
+      36
+     ],
+     [
+      "176937",
+      "PLAFÓN LED 18 W",
+      21693,
+      50
+     ],
+     [
+      "113825",
+      "LÁMPARA DE PIE",
+      18626,
+      67
+     ],
+     [
+      "123585",
+      "LÁMPARA SOLAR",
+      18248,
+      42
+     ],
+     [
+      "173471",
+      "TIRA LED 5 M",
+      5964,
+      100
+     ],
+     [
+      "143436",
+      "FOCO LED 9 W X 3",
+      7337,
+      139
+     ]
+    ],
+    "nq": 146
+   },
+   {
+    "a": "JARDIN",
+    "s": 272820,
+    "u": 639,
+    "sku": 41,
+    "stock": 3848,
+    "deps": [
+     [
+      "PLANTAS",
+      56026
+     ],
+     [
+      "MACETAS",
+      48043
+     ],
+     [
+      "RIEGO",
+      47676
+     ],
+     [
+      "SUSTRATOS",
+      47674
+     ],
+     [
+      "HERRAMIENTAS DE JARDIN",
+      43580
+     ],
+     [
+      "CERCOS",
+      29818
+     ]
+    ],
+    "lines": [
+     [
+      "ASPERSORS",
+      65812
+     ],
+     [
+      "SUSTRATOS",
+      61420
+     ],
+     [
+      "MANGUERAS",
+      53364
+     ],
+     [
+      "MACETAS",
+      35190
+     ],
+     [
+      "TIJERAS",
+      33595
+     ]
+    ],
+    "top": [
+     [
+      "156645",
+      "TIJERA DE PODAR",
+      23449,
+      56,
+      7
+     ],
+     [
+      "126865",
+      "ASPERSOR GIRATORIO",
+      23424,
+      50,
+      9
+     ],
+     [
+      "199035",
+      "MACETA 30 CM",
+      14233,
+      34,
+      11
+     ],
+     [
+      "140036",
+      "CORTACÉSPED ELÉCTRICO",
+      9763,
+      64,
+      6
+     ],
+     [
+      "125432",
+      "PLANTA DECORATIVA",
+      7466,
+      15,
+      -3
+     ],
+     [
+      "117843",
+      "MALLA DE CERCO 1 M",
+      6530,
+      11,
+      -4
+     ],
+     [
+      "123804",
+      "MANGUERA 15 M",
+      3730,
+      14,
+      4
+     ],
+     [
+      "172775",
+      "SUSTRATO 25 L",
+      3588,
+      10,
+      9
+     ]
+    ],
+    "q": [
+     [
+      "117843",
+      "MALLA DE CERCO 1 M",
+      6530,
+      11
+     ],
+     [
+      "125432",
+      "PLANTA DECORATIVA",
+      7466,
+      15
+     ],
+     [
+      "123804",
+      "MANGUERA 15 M",
+      3730,
+      14
+     ],
+     [
+      "140036",
+      "CORTACÉSPED ELÉCTRICO",
+      9763,
+      64
+     ],
+     [
+      "156645",
+      "TIJERA DE PODAR",
+      23449,
+      56
+     ],
+     [
+      "126865",
+      "ASPERSOR GIRATORIO",
+      23424,
+      50
+     ],
+     [
+      "172775",
+      "SUSTRATO 25 L",
+      3588,
+      10
+     ],
+     [
+      "199035",
+      "MACETA 30 CM",
+      14233,
+      34
+     ]
+    ],
+    "nq": 93
+   },
+   {
+    "a": "HERRAMIENTAS",
+    "s": 172334,
+    "u": 621,
+    "sku": 224,
+    "stock": 3874,
+    "deps": [
+     [
+      "ACCESORIOS",
+      45924
+     ],
+     [
+      "MEDICION",
+      43164
+     ],
+     [
+      "ELECTRICAS",
+      38757
+     ],
+     [
+      "MANUALES",
+      22547
+     ],
+     [
+      "SEGURIDAD",
+      18369
+     ],
+     [
+      "ALMACENAMIENTO",
+      3570
+     ]
+    ],
+    "lines": [
+     [
+      "WINCHAS",
+      40641
+     ],
+     [
+      "CAJAS",
+      29138
+     ],
+     [
+      "AMOLADORAS",
+      27105
+     ],
+     [
+      "TALADROS",
+      21007
+     ],
+     [
+      "JUEGOS",
+      9726
+     ]
+    ],
+    "top": [
+     [
+      "151685",
+      "AMOLADORA 4 1/2 IN",
+      15024,
+      49,
+      10
+     ],
+     [
+      "101786",
+      "SET DE BROCAS 15 PIEZAS",
+      14180,
+      129,
+      4
+     ],
+     [
+      "169422",
+      "WINCHA 5 M",
+      12844,
+      34,
+      0
+     ],
+     [
+      "139823",
+      "LENTES DE SEGURIDAD",
+      12593,
+      158,
+      -5
+     ],
+     [
+      "107035",
+      "JUEGO DE DESTORNILLADORES",
+      11503,
+      26,
+      -1
+     ],
+     [
+      "107081",
+      "TALADRO PERCUTOR 650 W",
+      8684,
+      44,
+      7
+     ],
+     [
+      "170923",
+      "SIERRA CALADORA",
+      8339,
+      26,
+      -6
+     ],
+     [
+      "159678",
+      "CAJA DE HERRAMIENTAS 19 IN",
+      7706,
+      96,
+      3
+     ]
+    ],
+    "q": [
+     [
+      "170923",
+      "SIERRA CALADORA",
+      8339,
+      26
+     ],
+     [
+      "139823",
+      "LENTES DE SEGURIDAD",
+      12593,
+      158
+     ],
+     [
+      "107035",
+      "JUEGO DE DESTORNILLADORES",
+      11503,
+      26
+     ],
+     [
+      "169422",
+      "WINCHA 5 M",
+      12844,
+      34
+     ],
+     [
+      "159678",
+      "CAJA DE HERRAMIENTAS 19 IN",
+      7706,
+      96
+     ],
+     [
+      "101786",
+      "SET DE BROCAS 15 PIEZAS",
+      14180,
+      129
+     ],
+     [
+      "107081",
+      "TALADRO PERCUTOR 650 W",
+      8684,
+      44
+     ],
+     [
+      "151685",
+      "AMOLADORA 4 1/2 IN",
+      15024,
+      49
+     ]
+    ],
+    "nq": 85
+   },
+   {
+    "a": "BAÑOS",
+    "s": 165733,
+    "u": 611,
+    "sku": 376,
+    "stock": 2925,
+    "deps": [
+     [
+      "DUCHAS",
+      52403
+     ],
+     [
+      "MUEBLES DE BAÑO",
+      37200
+     ],
+     [
+      "GRIFERIA",
+      32993
+     ],
+     [
+      "SANITARIOS",
+      28085
+     ],
+     [
+      "ESPEJOS",
+      13641
+     ],
+     [
+      "ACCESORIOS",
+      1409
+     ]
+    ],
+    "lines": [
+     [
+      "INODOROS",
+      39767
+     ],
+     [
+      "LAVATORIOS",
+      33071
+     ],
+     [
+      "DUCHAS",
+      30641
+     ],
+     [
+      "GRIFERÍAS",
+      28833
+     ],
+     [
+      "MUEBLES",
+      19980
+     ]
+    ],
+    "top": [
+     [
+      "166974",
+      "ESPEJO CON LUZ LED",
+      14025,
+      106,
+      11
+     ],
+     [
+      "180335",
+      "GRIFERÍA MONOCOMANDO",
+      13480,
+      48,
+      -2
+     ],
+     [
+      "123932",
+      "MUEBLE DE BAÑO 60 CM",
+      12593,
+      39,
+      2
+     ],
+     [
+      "116554",
+      "MAMPARA CORREDIZA",
+      11085,
+      23,
+      11
+     ],
+     [
+      "132658",
+      "SET DE ACCESORIOS 4 PIEZAS",
+      10226,
+      37,
+      5
+     ],
+     [
+      "156718",
+      "LAVATORIO CON PEDESTAL",
+      9517,
+      31,
+      12
+     ],
+     [
+      "136260",
+      "INODORO ONE PIECE",
+      8515,
+      44,
+      2
+     ],
+     [
+      "183092",
+      "DUCHA ELÉCTRICA",
+      2640,
+      7,
+      12
+     ]
+    ],
+    "q": [
+     [
+      "180335",
+      "GRIFERÍA MONOCOMANDO",
+      13480,
+      48
+     ],
+     [
+      "123932",
+      "MUEBLE DE BAÑO 60 CM",
+      12593,
+      39
+     ],
+     [
+      "136260",
+      "INODORO ONE PIECE",
+      8515,
+      44
+     ],
+     [
+      "132658",
+      "SET DE ACCESORIOS 4 PIEZAS",
+      10226,
+      37
+     ],
+     [
+      "166974",
+      "ESPEJO CON LUZ LED",
+      14025,
+      106
+     ],
+     [
+      "116554",
+      "MAMPARA CORREDIZA",
+      11085,
+      23
+     ],
+     [
+      "156718",
+      "LAVATORIO CON PEDESTAL",
+      9517,
+      31
+     ],
+     [
+      "183092",
+      "DUCHA ELÉCTRICA",
+      2640,
+      7
+     ]
+    ],
+    "nq": 75
+   },
+   {
+    "a": "LIMPIEZA",
+    "s": 155447,
+    "u": 455,
+    "sku": 450,
+    "stock": 2634,
+    "deps": [
+     [
+      "PAÑOS",
+      45203
+     ],
+     [
+      "DESINFECTANTES",
+      27806
+     ],
+     [
+      "BOLSAS",
+      25627
+     ],
+     [
+      "ASPIRADORAS",
+      25038
+     ],
+     [
+      "ESCOBAS",
+      17514
+     ],
+     [
+      "LIMPIADORES",
+      14257
+     ]
+    ],
+    "lines": [
+     [
+      "ESCOBAS",
+      34868
+     ],
+     [
+      "DESINFECTANTES",
+      33887
+     ],
+     [
+      "BOLSAS",
+      29028
+     ],
+     [
+      "PAÑOS",
+      22489
+     ],
+     [
+      "LIMPIADORS",
+      19939
+     ]
+    ],
+    "top": [
+     [
+      "106494",
+      "LIMPIADOR MULTIUSO 1 L",
+      13350,
+      32,
+      9
+     ],
+     [
+      "140500",
+      "DESINFECTANTE 4 L",
+      9830,
+      29,
+      1
+     ],
+     [
+      "193311",
+      "BOLSAS DE BASURA X 50",
+      9626,
+      20,
+      3
+     ],
+     [
+      "196985",
+      "PAÑOS DE MICROFIBRA X 3",
+      7848,
+      27,
+      -6
+     ],
+     [
+      "147751",
+      "GUANTES DE LIMPIEZA",
+      7493,
+      96,
+      -4
+     ],
+     [
+      "127377",
+      "ESCOBA CON RECOGEDOR",
+      6186,
+      12,
+      11
+     ],
+     [
+      "145495",
+      "TRAPEADOR GIRATORIO",
+      5449,
+      18,
+      4
+     ],
+     [
+      "178567",
+      "ASPIRADORA 1200 W",
+      3531,
+      6,
+      4
+     ]
+    ],
+    "q": [
+     [
+      "196985",
+      "PAÑOS DE MICROFIBRA X 3",
+      7848,
+      27
+     ],
+     [
+      "147751",
+      "GUANTES DE LIMPIEZA",
+      7493,
+      96
+     ],
+     [
+      "140500",
+      "DESINFECTANTE 4 L",
+      9830,
+      29
+     ],
+     [
+      "193311",
+      "BOLSAS DE BASURA X 50",
+      9626,
+      20
+     ],
+     [
+      "145495",
+      "TRAPEADOR GIRATORIO",
+      5449,
+      18
+     ],
+     [
+      "178567",
+      "ASPIRADORA 1200 W",
+      3531,
+      6
+     ],
+     [
+      "106494",
+      "LIMPIADOR MULTIUSO 1 L",
+      13350,
+      32
+     ],
+     [
+      "127377",
+      "ESCOBA CON RECOGEDOR",
+      6186,
+      12
+     ]
+    ],
+    "nq": 14
+   },
+   {
+    "a": "MUEBLES",
+    "s": 136642,
+    "u": 347,
+    "sku": 232,
+    "stock": 1006,
+    "deps": [
+     [
+      "DORMITORIO",
+      48368
+     ],
+     [
+      "SALA",
+      38282
+     ],
+     [
+      "ORGANIZADORES",
+      29433
+     ],
+     [
+      "EXTERIOR",
+      8178
+     ],
+     [
+      "COMEDOR",
+      6864
+     ],
+     [
+      "OFICINA",
+      5514
+     ]
+    ],
+    "lines": [
+     [
+      "ROPEROS",
+      31540
+     ],
+     [
+      "JUEGOS",
+      31025
+     ],
+     [
+      "ZAPATERAS",
+      25131
+     ],
+     [
+      "ESCRITORIOS",
+      18837
+     ],
+     [
+      "SOFÁS",
+      9603
+     ]
+    ],
+    "top": [
+     [
+      "174675",
+      "MESA DE CENTRO",
+      11274,
+      27,
+      2
+     ],
+     [
+      "173479",
+      "VELADOR 2 CAJONES",
+      11158,
+      26,
+      2
+     ],
+     [
+      "108779",
+      "SOFÁ 3 CUERPOS",
+      9166,
+      19,
+      -8
+     ],
+     [
+      "133860",
+      "JUEGO DE COMEDOR 4 SILLAS",
+      7937,
+      17,
+      -3
+     ],
+     [
+      "160522",
+      "ROPERO 3 PUERTAS",
+      7376,
+      20,
+      -9
+     ],
+     [
+      "141536",
+      "SILLA DE OFICINA",
+      7043,
+      13,
+      0
+     ],
+     [
+      "154448",
+      "ZAPATERA 4 NIVELES",
+      5907,
+      31,
+      -10
+     ],
+     [
+      "164639",
+      "ESCRITORIO MELAMINA",
+      1611,
+      3,
+      12
+     ]
+    ],
+    "q": [
+     [
+      "154448",
+      "ZAPATERA 4 NIVELES",
+      5907,
+      31
+     ],
+     [
+      "160522",
+      "ROPERO 3 PUERTAS",
+      7376,
+      20
+     ],
+     [
+      "108779",
+      "SOFÁ 3 CUERPOS",
+      9166,
+      19
+     ],
+     [
+      "133860",
+      "JUEGO DE COMEDOR 4 SILLAS",
+      7937,
+      17
+     ],
+     [
+      "141536",
+      "SILLA DE OFICINA",
+      7043,
+      13
+     ],
+     [
+      "174675",
+      "MESA DE CENTRO",
+      11274,
+      27
+     ],
+     [
+      "173479",
+      "VELADOR 2 CAJONES",
+      11158,
+      26
+     ],
+     [
+      "164639",
+      "ESCRITORIO MELAMINA",
+      1611,
+      3
+     ]
+    ],
+    "nq": 5
+   },
+   {
+    "a": "ELECTRICIDAD",
+    "s": 133034,
+    "u": 437,
+    "sku": 196,
+    "stock": 3295,
+    "deps": [
+     [
+      "TOMACORRIENTES",
+      37301
+     ],
+     [
+      "EXTENSIONES",
+      35576
+     ],
+     [
+      "CABLES",
+      23125
+     ],
+     [
+      "TABLEROS",
+      16415
+     ],
+     [
+      "CANALETAS",
+      13832
+     ],
+     [
+      "INTERRUPTORES",
+      6782
+     ]
+    ],
+    "lines": [
+     [
+      "TOMACORRIENTES",
+      21906
+     ],
+     [
+      "EXTENSIÓNS",
+      18073
+     ],
+     [
+      "CABLES",
+      13029
+     ],
+     [
+      "TABLEROS",
+      9452
+     ],
+     [
+      "INTERRUPTORS",
+      8674
+     ]
+    ],
+    "top": [
+     [
+      "116768",
+      "INTERRUPTOR SIMPLE",
+      11459,
+      193,
+      -6
+     ],
+     [
+      "143123",
+      "LLAVE TERMOMAGNÉTICA 2X20 A",
+      11357,
+      34,
+      2
+     ],
+     [
+      "102202",
+      "TABLERO 8 POLOS",
+      8682,
+      21,
+      -1
+     ],
+     [
+      "176777",
+      "CABLE THW 14 AWG 100 M",
+      7845,
+      24,
+      7
+     ],
+     [
+      "196326",
+      "TOMACORRIENTE DOBLE",
+      6927,
+      41,
+      3
+     ],
+     [
+      "157057",
+      "CANALETA 20X12",
+      6294,
+      17,
+      5
+     ],
+     [
+      "138921",
+      "CINTA AISLANTE",
+      5007,
+      38,
+      10
+     ],
+     [
+      "183590",
+      "EXTENSIÓN 5 M",
+      1983,
+      9,
+      -9
+     ]
+    ],
+    "q": [
+     [
+      "183590",
+      "EXTENSIÓN 5 M",
+      1983,
+      9
+     ],
+     [
+      "116768",
+      "INTERRUPTOR SIMPLE",
+      11459,
+      193
+     ],
+     [
+      "102202",
+      "TABLERO 8 POLOS",
+      8682,
+      21
+     ],
+     [
+      "143123",
+      "LLAVE TERMOMAGNÉTICA 2X20 A",
+      11357,
+      34
+     ],
+     [
+      "196326",
+      "TOMACORRIENTE DOBLE",
+      6927,
+      41
+     ],
+     [
+      "157057",
+      "CANALETA 20X12",
+      6294,
+      17
+     ],
+     [
+      "176777",
+      "CABLE THW 14 AWG 100 M",
+      7845,
+      24
+     ],
+     [
+      "138921",
+      "CINTA AISLANTE",
+      5007,
+      38
+     ]
+    ],
+    "nq": 89
+   },
+   {
+    "a": "FERRETERIA",
+    "s": 115425,
+    "u": 615,
+    "sku": 364,
+    "stock": 3253,
+    "deps": [
+     [
+      "ADHESIVOS",
+      30529
+     ],
+     [
+      "QUIMICOS",
+      28525
+     ],
+     [
+      "CADENAS",
+      20531
+     ],
+     [
+      "RUEDAS",
+      18977
+     ],
+     [
+      "CERRAJERIA",
+      9373
+     ],
+     [
+      "FIJACIONES",
+      7486
+     ]
+    ],
+    "lines": [
+     [
+      "TARUGOS",
+      25269
+     ],
+     [
+      "SILICONAS",
+      18722
+     ],
+     [
+      "PEGAMENTOS",
+      17584
+     ],
+     [
+      "CANDADOS",
+      12266
+     ],
+     [
+      "CERRADURAS",
+      6522
+     ]
+    ],
+    "top": [
+     [
+      "198498",
+      "LUBRICANTE MULTIUSO",
+      10311,
+      17,
+      -5
+     ],
+     [
+      "153080",
+      "SILICONA TRANSPARENTE",
+      9988,
+      75,
+      -4
+     ],
+     [
+      "141970",
+      "CERRADURA DE POMO",
+      9922,
+      18,
+      9
+     ],
+     [
+      "116354",
+      "CANDADO 40 MM",
+      9763,
+      99,
+      -10
+     ],
+     [
+      "107415",
+      "BISAGRA 3 IN",
+      9216,
+      19,
+      1
+     ],
+     [
+      "166699",
+      "RUEDA GIRATORIA 2 IN",
+      5231,
+      9,
+      10
+     ],
+     [
+      "102940",
+      "PEGAMENTO DE CONTACTO",
+      4562,
+      8,
+      -9
+     ],
+     [
+      "115221",
+      "TARUGO CON TORNILLO X 100",
+      3909,
+      8,
+      4
+     ]
+    ],
+    "q": [
+     [
+      "116354",
+      "CANDADO 40 MM",
+      9763,
+      99
+     ],
+     [
+      "102940",
+      "PEGAMENTO DE CONTACTO",
+      4562,
+      8
+     ],
+     [
+      "198498",
+      "LUBRICANTE MULTIUSO",
+      10311,
+      17
+     ],
+     [
+      "153080",
+      "SILICONA TRANSPARENTE",
+      9988,
+      75
+     ],
+     [
+      "107415",
+      "BISAGRA 3 IN",
+      9216,
+      19
+     ],
+     [
+      "115221",
+      "TARUGO CON TORNILLO X 100",
+      3909,
+      8
+     ],
+     [
+      "141970",
+      "CERRADURA DE POMO",
+      9922,
+      18
+     ],
+     [
+      "166699",
+      "RUEDA GIRATORIA 2 IN",
+      5231,
+      9
+     ]
+    ],
+    "nq": 29
+   },
+   {
+    "a": "ALIMENTOS Y BEBIDAS",
+    "s": 37143,
+    "u": 92,
+    "sku": 75,
+    "stock": 3514,
+    "deps": [
+     [
+      "SNACKS",
+      18867
+     ],
+     [
+      "BEBIDAS",
+      18275
+     ]
+    ],
+    "lines": [
+     [
+      "CHOCOLATES",
+      8598
+     ],
+     [
+      "CAFÉS",
+      4285
+     ],
+     [
+      "AGUAS",
+      3227
+     ],
+     [
+      "GASEOSAS",
+      3047
+     ],
+     [
+      "GALLETAS",
+      2464
+     ]
+    ],
+    "top": [
+     [
+      "100264",
+      "GASEOSA 500 ML",
+      3231,
+      8,
+      -4
+     ],
+     [
+      "148183",
+      "CARAMELOS",
+      3118,
+      7,
+      9
+     ],
+     [
+      "194536",
+      "CHOCOLATE",
+      3052,
+      12,
+      9
+     ],
+     [
+      "112137",
+      "BARRA DE CEREAL",
+      2918,
+      15,
+      0
+     ],
+     [
+      "194804",
+      "GALLETAS SURTIDAS",
+      2852,
+      18,
+      -7
+     ],
+     [
+      "175052",
+      "AGUA 625 ML",
+      2793,
+      22,
+      4
+     ],
+     [
+      "118566",
+      "CAFÉ INSTANTÁNEO",
+      1961,
+      8,
+      11
+     ],
+     [
+      "151339",
+      "JUGO 1 L",
+      1919,
+      6,
+      8
+     ]
+    ],
+    "q": [
+     [
+      "194804",
+      "GALLETAS SURTIDAS",
+      2852,
+      18
+     ],
+     [
+      "100264",
+      "GASEOSA 500 ML",
+      3231,
+      8
+     ],
+     [
+      "112137",
+      "BARRA DE CEREAL",
+      2918,
+      15
+     ],
+     [
+      "175052",
+      "AGUA 625 ML",
+      2793,
+      22
+     ],
+     [
+      "151339",
+      "JUGO 1 L",
+      1919,
+      6
+     ],
+     [
+      "148183",
+      "CARAMELOS",
+      3118,
+      7
+     ],
+     [
+      "194536",
+      "CHOCOLATE",
+      3052,
+      12
+     ],
+     [
+      "118566",
+      "CAFÉ INSTANTÁNEO",
+      1961,
+      8
+     ]
+    ],
+    "nq": 82
+   },
+   {
+    "a": "PROMOCIONES",
+    "s": 26608,
+    "u": 104,
+    "sku": 328,
+    "stock": 501,
+    "deps": [
+     [
+      "OFERTAS",
+      26608
+     ]
+    ],
+    "lines": [
+     [
+      "COMBOS",
+      4502
+     ],
+     [
+      "PACKS",
+      4433
+     ],
+     [
+      "OFERTAS",
+      2657
+     ],
+     [
+      "LIQUIDACIÓNS",
+      2240
+     ],
+     [
+      "PROMOS",
+      1373
+     ]
+    ],
+    "top": [
+     [
+      "181310",
+      "COMBO DE PINTURA",
+      2373,
+      5,
+      -6
+     ],
+     [
+      "189812",
+      "LIQUIDACIÓN DE CERÁMICOS",
+      2283,
+      4,
+      -6
+     ],
+     [
+      "193163",
+      "COMBO DE BAÑO",
+      2044,
+      4,
+      2
+     ],
+     [
+      "169636",
+      "OFERTA DE TEMPORADA",
+      1642,
+      4,
+      2
+     ],
+     [
+      "143958",
+      "PACK DE LIMPIEZA",
+      1454,
+      3,
+      5
+     ],
+     [
+      "101333",
+      "SET DE JARDÍN",
+      1297,
+      2,
+      -3
+     ],
+     [
+      "142029",
+      "PROMO DE HERRAMIENTAS",
+      558,
+      8,
+      -4
+     ],
+     [
+      "118187",
+      "PACK DE FOCOS LED",
+      302,
+      1,
+      -10
+     ]
+    ],
+    "q": [
+     [
+      "118187",
+      "PACK DE FOCOS LED",
+      302,
+      1
+     ],
+     [
+      "181310",
+      "COMBO DE PINTURA",
+      2373,
+      5
+     ],
+     [
+      "189812",
+      "LIQUIDACIÓN DE CERÁMICOS",
+      2283,
+      4
+     ],
+     [
+      "142029",
+      "PROMO DE HERRAMIENTAS",
+      558,
+      8
+     ],
+     [
+      "101333",
+      "SET DE JARDÍN",
+      1297,
+      2
+     ],
+     [
+      "193163",
+      "COMBO DE BAÑO",
+      2044,
+      4
+     ],
+     [
+      "169636",
+      "OFERTA DE TEMPORADA",
+      1642,
+      4
+     ],
+     [
+      "143958",
+      "PACK DE LIMPIEZA",
+      1454,
+      3
+     ]
+    ],
+    "nq": 46
+   }
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function logeado() { return request.auth != null; }
+    // Usuario de la supervisora + @tienda360.app (igual que SUP_EMAILS en config.js)
+    function esSup() { return request.auth != null && request.auth.token.email in ['supervisora@tienda360.app']; }
+
+    match /tasks/{id}  { allow read, write: if logeado(); }
+    match /inc/{id}    { allow read, write: if logeado(); }
+    match /team/{id}   { allow read: if logeado(); allow write: if esSup(); }
+    // Orden de ventas sin montos: lo ve todo el equipo
+    match /datos/gestor { allow read: if logeado(); allow write: if esSup(); }
+    // Montos de venta: solo la supervisora
+    match /datos/sup   { allow read, write: if esSup(); }
+  }
+}
